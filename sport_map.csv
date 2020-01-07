@@ -1,216 +1,216 @@
-NOC,Sport Category,CountSport
-AFG,Wrestling,42
-AHO,Athletics,14
-ALB,Weightlifting,17
-ALG,Athletics,137
-AND,Alpine Skiing,105
-ANG,Handball,84
-ANT,Athletics,96
-ARG,Hockey,286
-ARM,Wrestling,47
-ARU,Athletics,9
-ARU,Swimming,9
-ASA,Athletics,11
-AUS,Swimming,1235
-AUT,Alpine Skiing,556
-AZE,Wrestling,67
-BAH,Athletics,251
-BAN,Athletics,28
-BAR,Athletics,106
-BDI,Athletics,30
-BEL,Athletics,493
-BEN,Athletics,42
-BER,Athletics,62
-BHU,Archery,34
-BIH,Alpine Skiing,29
-BIZ,Athletics,38
-BLR,Gymnastics,236
-BOL,Athletics,39
-BOT,Athletics,74
-BRA,Athletics,508
-BRN,Athletics,73
-BRU,Athletics,6
-BUL,Gymnastics,974
-BUR,Athletics,26
-CAF,Athletics,29
-CAM,Swimming,23
-CAN,Athletics,1121
-CAY,Cycling,31
-CGO,Athletics,58
-CHA,Athletics,37
-CHI,Alpine Skiing,162
-CHN,Gymnastics,641
-CIV,Athletics,100
-CMR,Athletics,96
-COD,Athletics,34
-COK,Athletics,14
-COL,Athletics,207
-COM,Athletics,14
-CPV,Athletics,11
-CRC,Swimming,60
-CRO,Swimming,106
-CUB,Athletics,427
-CYP,Athletics,66
-CZE,Cross Country Skiing,206
-DEN,Swimming,348
-DJI,Athletics,28
-DMA,Athletics,15
-DOM,Athletics,73
-ECU,Athletics,80
-EGY,Fencing,181
-ERI,Athletics,41
-ESA,Swimming,83
-ESP,Gymnastics,633
-EST,Cross Country Skiing,197
-ETH,Athletics,289
-FIJ,Athletics,60
-FIJ,Swimming,60
-FIN,Athletics,856
-FRA,Gymnastics,1576
-FSM,Athletics,10
-FSM,Swimming,10
-GAB,Athletics,22
-GAM,Athletics,50
-GBR,Athletics,2190
-GBS,Athletics,12
-GEO,Wrestling,67
-GEQ,Athletics,37
-GER,Athletics,1180
-GHA,Athletics,189
-GRE,Athletics,650
-GRN,Athletics,35
-GUA,Swimming,85
-GUI,Athletics,29
-GUM,Swimming,44
-GUY,Athletics,53
-HAI,Athletics,58
-HKG,Swimming,205
-HON,Football,68
-HUN,Gymnastics,1242
-INA,Badminton,98
-IND,Hockey,345
-IRI,Wrestling,189
-IRL,Athletics,295
-IRQ,Football,80
-ISL,Alpine Skiing,145
-ISR,Swimming,131
-ISV,Swimming,81
-ITA,Gymnastics,1363
-IVB,Athletics,31
-JAM,Athletics,674
-JOR,Athletics,21
-JPN,Gymnastics,1216
-KAZ,Cross Country Skiing,240
-KEN,Athletics,465
-KGZ,Swimming,77
-KIR,Athletics,7
-KOR,Gymnastics,512
-KOS,Athletics,2
-KOS,Judo,2
-KOS,Swimming,2
-KSA,Athletics,105
-KUW,Fencing,57
-LAO,Athletics,28
-LAT,Athletics,135
-LBA,Athletics,27
-LBR,Athletics,68
-LCA,Athletics,19
-LES,Athletics,51
-LIB,Alpine Skiing,89
-LIE,Alpine Skiing,205
-LTU,Athletics,104
-LUX,Gymnastics,433
-MAD,Athletics,57
-MAL,Hockey,17
-MAR,Athletics,197
-MAW,Athletics,45
-MDA,Athletics,59
-MDV,Athletics,33
-MEX,Swimming,393
-MGL,Wrestling,110
-MHL,Athletics,6
-MHL,Swimming,6
-MKD,Swimming,30
-MLI,Athletics,32
-MLT,Athletics,20
-MNE,Water Polo,39
-MON,Shooting,51
-MOZ,Athletics,37
-MRI,Athletics,47
-MTN,Athletics,22
-MYA,Athletics,30
-NAM,Athletics,30
-NCA,Athletics,37
-NED,Swimming,693
-NEP,Athletics,38
-NGR,Athletics,414
-NIG,Athletics,21
-NOR,Cross Country Skiing,578
-NRU,Weightlifting,11
-NZL,Swimming,306
-OMA,Athletics,38
-PAK,Hockey,245
-PAN,Athletics,36
-PAR,Football,34
-PER,Shooting,88
-PHI,Swimming,197
-PLW,Athletics,9
-PNG,Athletics,57
-POL,Athletics,826
-POR,Athletics,321
-PRK,Gymnastics,261
-PUR,Swimming,185
-QAT,Athletics,92
-RHO,Athletics,4
-RHO,Boxing,4
-ROU,Gymnastics,1172
-RSA,Athletics,369
-RUS,Athletics,576
-RWA,Athletics,39
-SAM,Boxing,18
-SEN,Athletics,162
-SEY,Athletics,47
-SGP,Swimming,143
-SKN,Athletics,42
-SLE,Athletics,96
-SLO,Alpine Skiing,198
-SMR,Shooting,55
-SOL,Athletics,17
-SOM,Athletics,32
-SRB,Volleyball,59
-SRI,Athletics,67
-SSD,Athletics,3
-STP,Athletics,12
-SUD,Athletics,53
-SUI,Gymnastics,863
-SUR,Athletics,29
-SUR,Swimming,29
-SVK,Ice Hockey,155
-SWE,Athletics,949
-SWZ,Athletics,34
-SYR,Wrestling,38
-TAN,Athletics,102
-TGA,Athletics,19
-THA,Athletics,158
-TJK,Athletics,11
-TJK,Wrestling,11
-TKM,Athletics,11
-TLS,Athletics,7
-TOG,Athletics,31
-TPE,Swimming,159
-TTO,Athletics,247
-TUN,Athletics,74
-TUR,Wrestling,266
-TUV,Athletics,5
-UAE,Swimming,61
-UGA,Athletics,143
-UKR,Athletics,370
-URU,Cycling,103
-USA,Athletics,3082
-UZB,Athletics,82
-VAN,Athletics,25
-VEN,Swimming,161
-VIN,Athletics,36
-VNM,Cycling,31
-YEM,Athletics,14
-ZAM,Athletics,70
+"NOC","Sport Category","CountSport","Id_Sport","Team"
+"AND","Alpine Skiing",105,0,"Andorra"
+"AUT","Alpine Skiing",556,0,"Austria"
+"BIH","Alpine Skiing",29,0,"Bosnia and Herzegovina"
+"CHI","Alpine Skiing",162,0,"Chile"
+"ISL","Alpine Skiing",145,0,"Iceland"
+"LIB","Alpine Skiing",89,0,"Lebanon"
+"LIE","Alpine Skiing",205,0,"Liechtenstein"
+"SLO","Alpine Skiing",198,0,"Slovenia"
+"BHU","Archery",34,1,"Bhutan"
+"AHO","Athletics",14,2,"Netherlands Antilles"
+"ALG","Athletics",137,2,"Algeria"
+"ANT","Athletics",96,2,"Antigua and Barbuda"
+"ARU","Athletics",9,2,"Aruba"
+"ASA","Athletics",11,2,"American Samoa"
+"BAH","Athletics",251,2,"Bahamas"
+"BAN","Athletics",28,2,"Bangladesh"
+"BAR","Athletics",106,2,"Barbados"
+"BDI","Athletics",30,2,"Burundi"
+"BEL","Athletics",493,2,"Belgium"
+"BEN","Athletics",42,2,"Benin"
+"BER","Athletics",62,2,"Bermuda"
+"BIZ","Athletics",38,2,"Belize"
+"BOL","Athletics",39,2,"Bolivia"
+"BOT","Athletics",74,2,"Botswana"
+"BRA","Athletics",508,2,"Brazil"
+"BRN","Athletics",73,2,"Bahrain"
+"BRU","Athletics",6,2,"Brunei"
+"BUR","Athletics",26,2,"Burkina Faso"
+"CAF","Athletics",29,2,"Central African Republic"
+"CAN","Athletics",1121,2,"Canada"
+"CGO","Athletics",58,2,"Congo (Brazzaville)"
+"CHA","Athletics",37,2,"Chad"
+"CIV","Athletics",100,2,"Cote d'Ivoire"
+"CMR","Athletics",96,2,"Cameroon"
+"COD","Athletics",34,2,"Congo (Kinshasa)"
+"COK","Athletics",14,2,"Cook Islands"
+"COL","Athletics",207,2,"Colombia"
+"COM","Athletics",14,2,"Comoros"
+"CPV","Athletics",11,2,"Cape Verde"
+"CUB","Athletics",427,2,"Cuba"
+"CYP","Athletics",66,2,"Cyprus"
+"DJI","Athletics",28,2,"Djibouti"
+"DMA","Athletics",15,2,"Dominica"
+"DOM","Athletics",73,2,"Dominican Republic"
+"ECU","Athletics",80,2,"Ecuador"
+"ERI","Athletics",41,2,"Eritrea"
+"ETH","Athletics",289,2,"Ethiopia"
+"FIJ","Athletics",60,2,"Fiji"
+"FIN","Athletics",856,2,"Finland"
+"FSM","Athletics",10,2,"Federated States of Micronesia"
+"GAB","Athletics",22,2,"Gabon"
+"GAM","Athletics",50,2,"Gambia"
+"GBR","Athletics",2190,2,"Great Britain"
+"GBS","Athletics",12,2,"Guinea Bissau"
+"GEQ","Athletics",37,2,"Equatorial Guinea"
+"GER","Athletics",1180,2,"Germany"
+"GHA","Athletics",189,2,"Ghana"
+"GRE","Athletics",650,2,"Greece"
+"GRN","Athletics",35,2,"Grenada"
+"GUI","Athletics",29,2,"Guinea"
+"GUY","Athletics",53,2,"Guyana"
+"HAI","Athletics",58,2,"Haiti"
+"IRL","Athletics",295,2,"Ireland"
+"IVB","Athletics",31,2,"British Virgin Islands"
+"JAM","Athletics",674,2,"Jamaica"
+"JOR","Athletics",21,2,"Jordan"
+"KEN","Athletics",465,2,"Kenya"
+"KIR","Athletics",7,2,"Kiribati"
+"KOS","Athletics",2,2,"Kosovo"
+"KSA","Athletics",105,2,"Saudi Arabia"
+"LAO","Athletics",28,2,"Laos"
+"LAT","Athletics",135,2,"Latvia"
+"LBA","Athletics",27,2,"Libya"
+"LBR","Athletics",68,2,"Liberia"
+"LCA","Athletics",19,2,"Saint Lucia"
+"LES","Athletics",51,2,"Lesotho"
+"LTU","Athletics",104,2,"Lithuania"
+"MAD","Athletics",57,2,"Madagascar"
+"MAR","Athletics",197,2,"Morocco"
+"MAW","Athletics",45,2,"Malawi"
+"MDA","Athletics",59,2,"Moldova"
+"MDV","Athletics",33,2,"Maldives"
+"MHL","Athletics",6,2,"Marshall Islands"
+"MLI","Athletics",32,2,"Mali"
+"MLT","Athletics",20,2,"Malta"
+"MOZ","Athletics",37,2,"Mozambique"
+"MRI","Athletics",47,2,"Mauritius"
+"MTN","Athletics",22,2,"Mauritania"
+"MYA","Athletics",30,2,"Myanmar"
+"NAM","Athletics",30,2,"Namibia"
+"NCA","Athletics",37,2,"Nicaragua"
+"NEP","Athletics",38,2,"Nepal"
+"NGR","Athletics",414,2,"Nigeria"
+"NIG","Athletics",21,2,"Niger"
+"OMA","Athletics",38,2,"Oman"
+"PAN","Athletics",36,2,"Panama"
+"PLW","Athletics",9,2,"Palau"
+"PNG","Athletics",57,2,"Papua New Guinea"
+"POL","Athletics",826,2,"Poland"
+"POR","Athletics",321,2,"Portugal"
+"QAT","Athletics",92,2,"Qatar"
+"RHO","Athletics",4,2,"Rhodesia"
+"RSA","Athletics",369,2,"South Africa"
+"RUS","Athletics",576,2,"Russia"
+"RWA","Athletics",39,2,"Rwanda"
+"SEN","Athletics",162,2,"Senegal"
+"SEY","Athletics",47,2,"Seychelles"
+"SKN","Athletics",42,2,"Saint Kitts and Nevis"
+"SLE","Athletics",96,2,"Sierra Leone"
+"SOL","Athletics",17,2,"Solomon Islands"
+"SOM","Athletics",32,2,"Somalia"
+"SRI","Athletics",67,2,"Sri Lanka"
+"SSD","Athletics",3,2,"South Sudan"
+"STP","Athletics",12,2,"Sao Tome and Principe"
+"SUD","Athletics",53,2,"Sudan"
+"SUR","Athletics",29,2,"Suriname"
+"SWE","Athletics",949,2,"Sweden"
+"SWZ","Athletics",34,2,"Swaziland"
+"TAN","Athletics",102,2,"Tanzania"
+"TGA","Athletics",19,2,"Tonga"
+"THA","Athletics",158,2,"Thailand"
+"TJK","Athletics",11,2,"Tajikistan"
+"TKM","Athletics",11,2,"Turkmenistan"
+"TLS","Athletics",7,2,"Timor Leste"
+"TOG","Athletics",31,2,"Togo"
+"TTO","Athletics",247,2,"Trinidad and Tobago"
+"TUN","Athletics",74,2,"Tunisia"
+"TUV","Athletics",5,2,"Tuvalu"
+"UGA","Athletics",143,2,"Uganda"
+"UKR","Athletics",370,2,"Ukraine"
+"USA","Athletics",3082,2,"United States"
+"UZB","Athletics",82,2,"Uzbekistan"
+"VAN","Athletics",25,2,"Vanuatu"
+"VIN","Athletics",36,2,"Saint Vincent and the Grenadines"
+"YEM","Athletics",14,2,"Yemen"
+"ZAM","Athletics",70,2,"Zambia"
+"INA","Badminton",98,3,"Indonesia"
+"RHO","Boxing",4,4,"Rhodesia"
+"SAM","Boxing",18,4,"Samoa"
+"CZE","Cross Country Skiing",206,5,"Czech Republic"
+"EST","Cross Country Skiing",197,5,"Estonia"
+"KAZ","Cross Country Skiing",240,5,"Kazakhstan"
+"NOR","Cross Country Skiing",578,5,"Norway"
+"CAY","Cycling",31,6,"Cayman Islands"
+"URU","Cycling",103,6,"Uruguay"
+"VNM","Cycling",31,6,"South Vietnam"
+"EGY","Fencing",181,7,"Egypt"
+"KUW","Fencing",57,7,"Kuwait"
+"HON","Football",68,8,"Honduras"
+"IRQ","Football",80,8,"Iraq"
+"PAR","Football",34,8,"Paraguay"
+"BLR","Gymnastics",236,9,"Belarus"
+"BUL","Gymnastics",974,9,"Bulgaria"
+"CHN","Gymnastics",641,9,"China"
+"ESP","Gymnastics",633,9,"Spain"
+"FRA","Gymnastics",1576,9,"France"
+"HUN","Gymnastics",1242,9,"Hungary"
+"ITA","Gymnastics",1363,9,"Italy"
+"JPN","Gymnastics",1216,9,"Japan"
+"KOR","Gymnastics",512,9,"South Korea"
+"LUX","Gymnastics",433,9,"Luxembourg"
+"PRK","Gymnastics",261,9,"North Korea"
+"ROU","Gymnastics",1172,9,"Romania"
+"SUI","Gymnastics",863,9,"Switzerland"
+"ANG","Handball",84,10,"Angola"
+"ARG","Hockey",286,11,"Argentina"
+"IND","Hockey",345,11,"India"
+"MAL","Hockey",17,11,"Malaya"
+"PAK","Hockey",245,11,"Pakistan"
+"SVK","Ice Hockey",155,12,"Slovakia"
+"KOS","Judo",2,13,"Kosovo"
+"MON","Shooting",51,14,"Monaco"
+"PER","Shooting",88,14,"Peru"
+"SMR","Shooting",55,14,"San Marino"
+"ARU","Swimming",9,15,"Aruba"
+"AUS","Swimming",1235,15,"Australia"
+"CAM","Swimming",23,15,"Cambodia"
+"CRC","Swimming",60,15,"Costa Rica"
+"CRO","Swimming",106,15,"Croatia"
+"DEN","Swimming",348,15,"Denmark"
+"ESA","Swimming",83,15,"El Salvador"
+"FIJ","Swimming",60,15,"Fiji"
+"FSM","Swimming",10,15,"Federated States of Micronesia"
+"GUA","Swimming",85,15,"Guatemala"
+"GUM","Swimming",44,15,"Guam"
+"HKG","Swimming",205,15,"Hong Kong"
+"ISR","Swimming",131,15,"Israel"
+"ISV","Swimming",81,15,"United States Virgin Islands"
+"KGZ","Swimming",77,15,"Kyrgyzstan"
+"KOS","Swimming",2,15,"Kosovo"
+"MEX","Swimming",393,15,"Mexico"
+"MHL","Swimming",6,15,"Marshall Islands"
+"MKD","Swimming",30,15,"Macedonia"
+"NED","Swimming",693,15,"Netherlands"
+"NZL","Swimming",306,15,"New Zealand"
+"PHI","Swimming",197,15,"Philippines"
+"PUR","Swimming",185,15,"Puerto Rico"
+"SGP","Swimming",143,15,"Singapore"
+"SUR","Swimming",29,15,"Suriname"
+"TPE","Swimming",159,15,"Chinese Taipei"
+"UAE","Swimming",61,15,"United Arab Emirates"
+"VEN","Swimming",161,15,"Venezuela"
+"SRB","Volleyball",59,16,"Serbia"
+"MNE","Water Polo",39,17,"Montenegro"
+"ALB","Weightlifting",17,18,"Albania"
+"NRU","Weightlifting",11,18,"Nauru"
+"AFG","Wrestling",42,19,"Afghanistan"
+"ARM","Wrestling",47,19,"Armenia"
+"AZE","Wrestling",67,19,"Azerbaijan"
+"GEO","Wrestling",67,19,"Georgia"
+"IRI","Wrestling",189,19,"Iran"
+"MGL","Wrestling",110,19,"Mongolia"
+"SYR","Wrestling",38,19,"Syria"
+"TJK","Wrestling",11,19,"Tajikistan"
+"TUR","Wrestling",266,19,"Turkey"
