@@ -1,0 +1,1438 @@
+Sex,Sport,Year (classe),Nb
+M,Track and Field: High Jump,1896,5
+M,Track and Field: Pole Vault,1896,5
+M,Wrestling,1896,5
+M,Swimming (all strokes): Distance,1896,6
+M,Weight-Lifting,1896,10
+M,Cycling: Sprints,1896,12
+M,Swimming (all strokes): Sprints,1896,12
+M,Fencing,1896,15
+M,"Track and Field: Long, Triple jumps",1896,16
+M,Track and Field: Weights,1896,16
+M,Track and Field: Distance,1896,17
+M,Track and Field: Middle Distance,1896,17
+M,Tennis,1896,23
+M,Cycling: Distance,1896,29
+M,Track and Field: Sprints,1896,30
+M,Shooting,1896,65
+M,Gymnastics,1896,97
+F,Equestrian,1900,2
+M,Racquetball/Squash,1900,2
+M,Track and Field: Pole Vault,1900,8
+F,Golf,1900,10
+M,Track and Field: High Jump,1900,11
+F,Tennis,1900,12
+M,Golf,1900,12
+M,Swimming (all strokes): Distance,1900,16
+M,Cycling: Distance,1900,23
+M,Track and Field: Distance,1900,24
+M,Archery,1900,32
+M,Track and Field: Middle Distance,1900,33
+M,Track and Field: Weights,1900,33
+M,Football,1900,35
+M,Tennis,1900,35
+M,"Track and Field: Long, Triple jumps",1900,39
+M,Rugby,1900,47
+M,Water Polo,1900,53
+M,Cycling: Sprints,1900,69
+M,Equestrian,1900,77
+M,Track and Field: Sprints,1900,86
+M,Swimming (all strokes): Sprints,1900,101
+M,Rowing,1900,133
+M,Gymnastics,1900,135
+M,Shooting,1900,221
+M,Fencing,1900,317
+F,Tennis,1904,11
+F,Archery,1904,16
+M,Track and Field: Pole Vault,1904,18
+M,Water Polo,1904,21
+M,Boxing,1904,24
+M,Diving,1904,29
+M,Weight-Lifting,1904,29
+M,Lacrosse,1904,36
+M,Swimming (all strokes): Distance,1904,37
+M,Track and Field: High Jump,1904,46
+M,Archery,1904,54
+M,Football,1904,81
+M,Wrestling,1904,87
+M,Track and Field: Middle Distance,1904,89
+M,Cycling: Distance,1904,93
+M,Tennis,1904,94
+M,Swimming (all strokes): Sprints,1904,100
+M,"Track and Field: Long, Triple jumps",1904,102
+M,Golf,1904,105
+M,Cycling: Sprints,1904,106
+M,Track and Field: Distance,1904,123
+M,Track and Field: Weights,1904,123
+M,Track and Field: Sprints,1904,137
+M,Fencing,1904,189
+M,Rowing,1904,246
+M,Shooting,1904,320
+M,Gymnastics,1904,614
+F,Figure Skating,1908,8
+F,Tennis,1908,12
+M,Racquetball/Squash,1908,12
+M,Figure Skating,1908,15
+M,Track and Field: Pole Vault,1908,15
+M,Swimming (all strokes): Distance,1908,19
+M,Lacrosse,1908,24
+F,Archery,1908,25
+M,Water Polo,1908,28
+M,Rugby,1908,30
+M,Boxing,1908,42
+M,Track and Field: High Jump,1908,45
+M,Diving,1908,47
+M,Archery,1908,52
+M,Field Hockey,1908,68
+M,Football,1908,72
+M,Tennis,1908,72
+M,"Track and Field: Long, Triple jumps",1908,77
+M,Rowing,1908,87
+M,Track and Field: Distance,1908,115
+M,Cycling: Distance,1908,129
+M,Swimming (all strokes): Sprints,1908,131
+M,Wrestling,1908,133
+M,Cycling: Sprints,1908,140
+M,Track and Field: Weights,1908,158
+M,Track and Field: Sprints,1908,180
+M,Track and Field: Middle Distance,1908,188
+M,Fencing,1908,240
+M,Gymnastics,1908,349
+M,Shooting,1908,444
+F,Diving,1912,14
+M,Swimming (all strokes): Distance,1912,19
+M,Track and Field: Pole Vault,1912,25
+F,Tennis,1912,30
+F,Swimming (all strokes): Sprints,1912,43
+M,Water Polo,1912,45
+M,Track and Field: High Jump,1912,53
+M,"Track and Field: Long, Triple jumps",1912,69
+M,Diving,1912,72
+M,Track and Field: Middle Distance,1912,116
+M,Equestrian,1912,128
+M,Swimming (all strokes): Sprints,1912,139
+M,Tennis,1912,143
+M,Track and Field: Weights,1912,143
+M,Football,1912,163
+M,Wrestling,1912,170
+M,Rowing,1912,197
+M,Track and Field: Distance,1912,238
+M,Cycling: Distance,1912,242
+M,Track and Field: Sprints,1912,263
+M,Gymnastics,1912,310
+M,Fencing,1912,379
+M,Shooting,1912,794
+F,Figure Skating,1920,14
+M,Track and Field: Pole Vault,1920,16
+M,Figure Skating,1920,17
+F,Diving,1920,19
+M,Track and Field: High Jump,1920,22
+M,Swimming (all strokes): Distance,1920,24
+M,Rugby,1920,31
+F,Swimming (all strokes): Sprints,1920,47
+M,"Track and Field: Long, Triple jumps",1920,50
+M,Diving,1920,51
+M,Field Hockey,1920,51
+F,Tennis,1920,52
+M,Weight-Lifting,1920,53
+M,Ice Hockey,1920,60
+M,Archery,1920,86
+M,Track and Field: Weights,1920,86
+M,Cycling: Sprints,1920,91
+M,Tennis,1920,101
+M,Water Polo,1920,101
+M,Boxing,1920,116
+M,Cycling: Distance,1920,121
+M,Equestrian,1920,132
+M,Swimming (all strokes): Sprints,1920,138
+M,Track and Field: Middle Distance,1920,138
+M,Rowing,1920,144
+M,Wrestling,1920,161
+M,Football,1920,190
+M,Track and Field: Distance,1920,231
+M,Gymnastics,1920,263
+M,Track and Field: Sprints,1920,264
+M,Fencing,1920,350
+M,Shooting,1920,838
+M,Curling,1924,16
+F,Figure Skating,1924,17
+M,Figure Skating,1924,20
+M,Track and Field: Pole Vault,1924,20
+M,Swimming (all strokes): Distance,1924,22
+F,Fencing,1924,25
+M,Ski Jumping,1924,27
+M,Track and Field: High Jump,1924,27
+F,Diving,1924,28
+M,Bobsledding/Luge,1924,39
+M,Rugby,1924,54
+M,"Track and Field: Long, Triple jumps",1924,54
+M,Diving,1924,62
+F,Tennis,1924,74
+M,Skiing: Nordic,1924,74
+M,Cycling: Sprints,1924,81
+M,Ice Hockey,1924,82
+F,Swimming (all strokes): Sprints,1924,83
+M,Water Polo,1924,101
+M,Track and Field: Weights,1924,104
+M,Weight-Lifting,1924,107
+M,Speed Skating,1924,110
+M,Track and Field: Middle Distance,1924,154
+M,Swimming (all strokes): Sprints,1924,158
+M,Cycling: Distance,1924,168
+M,Tennis,1924,179
+M,Boxing,1924,181
+M,Equestrian,1924,194
+M,Rowing,1924,196
+M,Track and Field: Distance,1924,225
+M,Wrestling,1924,244
+M,Football,1924,279
+M,Track and Field: Sprints,1924,353
+M,Fencing,1924,399
+M,Shooting,1924,508
+M,Gymnastics,1924,638
+M,Swimming (all strokes): Distance,1928,19
+F,Track and Field: High Jump,1928,20
+M,Track and Field: Pole Vault,1928,20
+F,Track and Field: Weights,1928,21
+F,Track and Field: Middle Distance,1928,25
+F,Diving,1928,27
+F,Fencing,1928,27
+M,Figure Skating,1928,30
+F,Figure Skating,1928,33
+M,Track and Field: High Jump,1928,35
+M,Ski Jumping,1928,38
+M,Diving,1928,47
+F,Gymnastics,1928,56
+F,Track and Field: Sprints,1928,63
+M,"Track and Field: Long, Triple jumps",1928,65
+M,Skiing: Nordic,1928,90
+M,Weight-Lifting,1928,94
+M,Cycling: Sprints,1928,97
+M,Track and Field: Weights,1928,100
+M,Speed Skating,1928,106
+F,Swimming (all strokes): Sprints,1928,108
+M,Water Polo,1928,112
+M,Track and Field: Middle Distance,1928,115
+M,Ice Hockey,1928,124
+M,Bobsledding/Luge,1928,126
+M,Cycling: Distance,1928,130
+M,Track and Field: Distance,1928,131
+M,Field Hockey,1928,137
+M,Boxing,1928,144
+M,Swimming (all strokes): Sprints,1928,151
+M,Wrestling,1928,169
+M,Football,1928,219
+M,Equestrian,1928,232
+M,Rowing,1928,247
+M,Track and Field: Sprints,1928,359
+M,Fencing,1928,403
+M,Gymnastics,1928,608
+M,Track and Field: Pole Vault,1932,8
+F,Track and Field: High Jump,1932,10
+M,Track and Field: High Jump,1932,14
+F,Diving,1932,15
+M,Swimming (all strokes): Distance,1932,15
+F,Fencing,1932,17
+F,Track and Field: Weights,1932,17
+M,Figure Skating,1932,19
+M,Diving,1932,21
+F,Figure Skating,1932,22
+M,"Track and Field: Long, Triple jumps",1932,28
+M,Weight-Lifting,1932,29
+M,Ski Jumping,1932,34
+M,Field Hockey,1932,40
+M,Water Polo,1932,41
+M,Shooting,1932,44
+M,Cycling: Sprints,1932,48
+M,Ice Hockey,1932,48
+M,Bobsledding/Luge,1932,52
+F,Track and Field: Sprints,1932,53
+M,Track and Field: Middle Distance,1932,60
+M,Track and Field: Weights,1932,60
+M,Cycling: Distance,1932,61
+M,Equestrian,1932,65
+M,Speed Skating,1932,70
+M,Skiing: Nordic,1932,74
+F,Swimming (all strokes): Sprints,1932,77
+M,Track and Field: Distance,1932,77
+M,Boxing,1932,85
+M,Wrestling,1932,90
+M,Swimming (all strokes): Sprints,1932,103
+M,Gymnastics,1932,147
+M,Rowing,1932,166
+M,Fencing,1932,175
+M,Track and Field: Sprints,1932,180
+F,Track and Field: High Jump,1936,17
+M,Swimming (all strokes): Distance,1936,21
+M,Track and Field: Pole Vault,1936,30
+F,Track and Field: Weights,1936,33
+F,Skiing: Alpine,1936,37
+F,Diving,1936,38
+M,Track and Field: High Jump,1936,40
+F,Fencing,1936,41
+M,Figure Skating,1936,43
+F,Figure Skating,1936,44
+M,Ski Jumping,1936,48
+M,Diving,1936,50
+F,Gymnastics,1936,64
+M,Skiing: Alpine,1936,66
+M,"Track and Field: Long, Triple jumps",1936,74
+M,Weight-Lifting,1936,80
+F,Track and Field: Sprints,1936,84
+M,Team Handball,1936,105
+M,Track and Field: Weights,1936,108
+M,Track and Field: Middle Distance,1936,113
+M,Cycling: Sprints,1936,114
+M,Bobsledding/Luge,1936,118
+F,Swimming (all strokes): Sprints,1936,135
+M,Speed Skating,1936,140
+M,Water Polo,1936,142
+M,Canoe/Kayak,1936,143
+M,Track and Field: Distance,1936,160
+M,Shooting,1936,162
+M,Field Hockey,1936,167
+M,Ice Hockey,1936,173
+M,Skiing: Nordic,1936,175
+M,Boxing,1936,179
+M,Cycling: Distance,1936,187
+M,Basketball,1936,199
+M,Football,1936,201
+M,Swimming (all strokes): Sprints,1936,208
+M,Wrestling,1936,210
+M,Equestrian,1936,256
+M,Track and Field: Sprints,1936,320
+M,Rowing,1936,348
+M,Fencing,1936,515
+M,Gymnastics,1936,883
+F,Canoe/Kayak,1948,10
+F,Track and Field: High Jump,1948,19
+M,Track and Field: Pole Vault,1948,19
+F,"Track and Field: Long, Triple jumps",1948,26
+M,Track and Field: High Jump,1948,27
+M,Figure Skating,1948,31
+F,Diving,1948,32
+F,Fencing,1948,39
+M,Swimming (all strokes): Distance,1948,39
+F,Figure Skating,1948,40
+M,Ski Jumping,1948,49
+M,"Track and Field: Long, Triple jumps",1948,49
+M,Diving,1948,52
+F,Track and Field: Weights,1948,55
+F,Gymnastics,1948,88
+F,Skiing: Alpine,1948,93
+M,Track and Field: Weights,1948,99
+M,Track and Field: Middle Distance,1948,103
+M,Bobsledding/Luge,1948,107
+M,Weight-Lifting,1948,120
+M,Cycling: Sprints,1948,123
+M,Canoe/Kayak,1948,129
+F,Track and Field: Sprints,1948,136
+M,Ice Hockey,1948,139
+M,Track and Field: Distance,1948,143
+F,Swimming (all strokes): Sprints,1948,145
+M,Speed Skating,1948,154
+M,Skiing: Nordic,1948,156
+M,Water Polo,1948,156
+M,Field Hockey,1948,187
+M,Cycling: Distance,1948,197
+M,Boxing,1948,205
+M,Equestrian,1948,207
+M,Swimming (all strokes): Sprints,1948,214
+M,Shooting,1948,216
+M,Football,1948,218
+M,Wrestling,1948,229
+M,Skiing: Alpine,1948,267
+M,Basketball,1948,287
+M,Rowing,1948,318
+M,Track and Field: Sprints,1948,340
+M,Fencing,1948,469
+M,Gymnastics,1948,972
+F,Equestrian,1952,6
+F,Canoe/Kayak,1952,13
+F,Track and Field: High Jump,1952,17
+F,Skiing: Nordic,1952,20
+M,Figure Skating,1952,27
+M,Track and Field: Pole Vault,1952,28
+F,Diving,1952,30
+F,"Track and Field: Long, Triple jumps",1952,34
+M,Track and Field: High Jump,1952,36
+F,Fencing,1952,37
+M,Swimming (all strokes): Distance,1952,37
+F,Figure Skating,1952,38
+M,Ski Jumping,1952,44
+F,Track and Field: Weights,1952,61
+M,"Track and Field: Long, Triple jumps",1952,62
+M,Diving,1952,67
+M,Bobsledding/Luge,1952,96
+M,Track and Field: Weights,1952,111
+F,Skiing: Alpine,1952,127
+M,Track and Field: Middle Distance,1952,137
+M,Weight-Lifting,1952,142
+M,Speed Skating,1952,145
+M,Ice Hockey,1952,147
+M,Field Hockey,1952,157
+M,Skiing: Nordic,1952,168
+M,Canoe/Kayak,1952,171
+M,Cycling: Sprints,1952,171
+F,Swimming (all strokes): Sprints,1952,182
+F,Track and Field: Sprints,1952,188
+M,Water Polo,1952,191
+M,Track and Field: Distance,1952,198
+M,Cycling: Distance,1952,218
+M,Boxing,1952,249
+M,Skiing: Alpine,1952,251
+M,Equestrian,1952,257
+M,Wrestling,1952,262
+M,Swimming (all strokes): Sprints,1952,264
+M,Shooting,1952,289
+M,Basketball,1952,294
+M,Football,1952,294
+M,Rowing,1952,406
+M,Track and Field: Sprints,1952,444
+M,Fencing,1952,472
+F,Gymnastics,1952,926
+M,Gymnastics,1952,1465
+F,Canoe/Kayak,1956,10
+F,Track and Field: High Jump,1956,19
+F,"Track and Field: Long, Triple jumps",1956,19
+M,Track and Field: Pole Vault,1956,19
+M,Swimming (all strokes): Distance,1956,20
+F,Equestrian,1956,23
+F,Fencing,1956,23
+M,Figure Skating,1956,27
+M,Track and Field: High Jump,1956,28
+F,Figure Skating,1956,32
+F,Diving,1956,36
+M,Diving,1956,46
+M,Ski Jumping,1956,51
+F,Track and Field: Weights,1956,59
+M,"Track and Field: Long, Triple jumps",1956,64
+F,Skiing: Nordic,1956,70
+M,Track and Field: Weights,1956,77
+M,Water Polo,1956,96
+M,Track and Field: Middle Distance,1956,98
+M,Weight-Lifting,1956,105
+F,Track and Field: Sprints,1956,119
+M,Cycling: Sprints,1956,125
+M,Bobsledding/Luge,1956,135
+M,Canoe/Kayak,1956,136
+M,Track and Field: Distance,1956,136
+M,Football,1956,143
+F,Skiing: Alpine,1956,144
+F,Swimming (all strokes): Sprints,1956,155
+M,Boxing,1956,161
+M,Cycling: Distance,1956,167
+M,Basketball,1956,169
+M,Ice Hockey,1956,169
+M,Field Hockey,1956,173
+M,Speed Skating,1956,179
+M,Swimming (all strokes): Sprints,1956,181
+M,Wrestling,1956,195
+M,Skiing: Nordic,1956,205
+M,Shooting,1956,219
+M,Fencing,1956,255
+M,Rowing,1956,258
+M,Skiing: Alpine,1956,259
+M,Equestrian,1956,275
+M,Track and Field: Sprints,1956,360
+F,Gymnastics,1956,430
+M,Gymnastics,1956,483
+F,Equestrian,1960,9
+F,Track and Field: High Jump,1960,23
+F,Track and Field: Middle Distance,1960,27
+M,Track and Field: Pole Vault,1960,29
+F,"Track and Field: Long, Triple jumps",1960,30
+M,Swimming (all strokes): Distance,1960,30
+M,Figure Skating,1960,32
+M,Track and Field: High Jump,1960,32
+F,Canoe/Kayak,1960,35
+F,Diving,1960,36
+F,Figure Skating,1960,39
+F,Skiing: Nordic,1960,39
+M,Ski Jumping,1960,45
+M,Diving,1960,60
+F,Track and Field: Weights,1960,62
+F,Speed Skating,1960,88
+M,"Track and Field: Long, Triple jumps",1960,88
+F,Fencing,1960,113
+M,Track and Field: Weights,1960,115
+M,Track and Field: Middle Distance,1960,122
+F,Track and Field: Sprints,1960,128
+F,Skiing: Alpine,1960,129
+M,Water Polo,1960,150
+M,Ice Hockey,1960,152
+M,Cycling: Sprints,1960,155
+M,Speed Skating,1960,161
+M,Weight-Lifting,1960,172
+M,Canoe/Kayak,1960,176
+M,Skiing: Nordic,1960,177
+M,Skiing: Alpine,1960,191
+M,Basketball,1960,192
+M,Track and Field: Distance,1960,225
+M,Football,1960,235
+M,Field Hockey,1960,236
+F,Swimming (all strokes): Sprints,1960,249
+M,Equestrian,1960,267
+M,Cycling: Distance,1960,268
+M,Boxing,1960,281
+M,Wrestling,1960,337
+M,Swimming (all strokes): Sprints,1960,351
+M,Shooting,1960,389
+M,Track and Field: Sprints,1960,401
+M,Rowing,1960,431
+M,Fencing,1960,488
+F,Gymnastics,1960,722
+M,Gymnastics,1960,1024
+F,Bobsledding/Luge,1964,17
+F,Equestrian,1964,23
+F,Track and Field: Middle Distance,1964,23
+F,Track and Field: High Jump,1964,26
+M,Track and Field: High Jump,1964,28
+M,Track and Field: Pole Vault,1964,30
+F,"Track and Field: Long, Triple jumps",1964,31
+M,Swimming (all strokes): Distance,1964,31
+F,Canoe/Kayak,1964,33
+M,Figure Skating,1964,41
+F,Diving,1964,45
+F,Figure Skating,1964,47
+F,Track and Field: Weights,1964,53
+M,Diving,1964,57
+M,"Track and Field: Long, Triple jumps",1964,66
+F,Volleyball,1964,68
+M,Martial Arts,1964,72
+F,Fencing,1964,86
+F,Skiing: Nordic,1964,91
+M,Track and Field: Weights,1964,100
+M,Ski Jumping,1964,105
+M,Volleyball,1964,111
+F,Speed Skating,1964,114
+M,Track and Field: Middle Distance,1964,119
+M,Canoe/Kayak,1964,134
+F,Skiing: Alpine,1964,135
+M,Water Polo,1964,137
+M,Weight-Lifting,1964,149
+M,Speed Skating,1964,173
+M,Bobsledding/Luge,1964,185
+M,Cycling: Sprints,1964,187
+M,Basketball,1964,189
+F,Track and Field: Sprints,1964,190
+M,Equestrian,1964,201
+M,Football,1964,214
+M,Track and Field: Distance,1964,218
+M,Field Hockey,1964,226
+M,Skiing: Nordic,1964,241
+M,Cycling: Distance,1964,264
+M,Boxing,1964,269
+M,Ice Hockey,1964,270
+F,Swimming (all strokes): Sprints,1964,275
+M,Skiing: Alpine,1964,276
+M,Wrestling,1964,302
+M,Shooting,1964,312
+M,Rowing,1964,378
+M,Fencing,1964,395
+M,Track and Field: Sprints,1964,409
+M,Swimming (all strokes): Sprints,1964,430
+F,Gymnastics,1964,474
+M,Gymnastics,1964,1010
+F,Shooting,1968,3
+M,Swimming (all strokes): Distance,1968,21
+M,Track and Field: Pole Vault,1968,23
+F,Track and Field: High Jump,1968,24
+F,Track and Field: Middle Distance,1968,24
+F,Bobsledding/Luge,1968,26
+F,Swimming (all strokes): Distance,1968,26
+F,"Track and Field: Long, Triple jumps",1968,27
+F,Canoe/Kayak,1968,35
+M,Track and Field: High Jump,1968,39
+F,Equestrian,1968,42
+F,Diving,1968,46
+F,Track and Field: Weights,1968,46
+M,Figure Skating,1968,46
+F,Figure Skating,1968,50
+M,Diving,1968,63
+M,"Track and Field: Long, Triple jumps",1968,69
+F,Volleyball,1968,87
+F,Fencing,1968,88
+F,Skiing: Nordic,1968,92
+M,Track and Field: Weights,1968,95
+F,Speed Skating,1968,113
+M,Ski Jumping,1968,116
+M,Volleyball,1968,119
+F,Skiing: Alpine,1968,135
+M,Track and Field: Middle Distance,1968,137
+M,Weight-Lifting,1968,160
+M,Water Polo,1968,162
+M,Speed Skating,1968,167
+M,Canoe/Kayak,1968,168
+M,Basketball,1968,191
+M,Equestrian,1968,191
+F,Track and Field: Sprints,1968,200
+M,Bobsledding/Luge,1968,200
+M,Cycling: Sprints,1968,219
+M,Track and Field: Distance,1968,221
+M,Ice Hockey,1968,250
+M,Skiing: Nordic,1968,252
+M,Field Hockey,1968,253
+M,Cycling: Distance,1968,264
+M,Football,1968,273
+M,Skiing: Alpine,1968,287
+M,Boxing,1968,307
+M,Wrestling,1968,333
+M,Rowing,1968,358
+M,Track and Field: Sprints,1968,374
+M,Fencing,1968,402
+M,Shooting,1968,407
+F,Swimming (all strokes): Sprints,1968,509
+F,Gymnastics,1968,587
+M,Swimming (all strokes): Sprints,1968,675
+M,Gymnastics,1968,909
+F,Shooting,1972,4
+M,Track and Field: Pole Vault,1972,21
+F,Bobsledding/Luge,1972,22
+F,"Track and Field: Long, Triple jumps",1972,33
+M,Figure Skating,1972,33
+F,Figure Skating,1972,35
+F,Swimming (all strokes): Distance,1972,36
+F,Archery,1972,40
+F,Track and Field: High Jump,1972,40
+M,Track and Field: High Jump,1972,40
+M,Swimming (all strokes): Distance,1972,43
+F,Track and Field: Weights,1972,54
+M,Archery,1972,55
+F,Diving,1972,57
+F,Equestrian,1972,57
+F,Canoe/Kayak,1972,61
+M,Diving,1972,67
+M,"Track and Field: Long, Triple jumps",1972,72
+F,Track and Field: Middle Distance,1972,74
+F,Volleyball,1972,91
+F,Fencing,1972,97
+M,Ski Jumping,1972,108
+M,Track and Field: Weights,1972,112
+F,Speed Skating,1972,115
+F,Skiing: Nordic,1972,118
+F,Skiing: Alpine,1972,125
+M,Speed Skating,1972,129
+M,Volleyball,1972,140
+M,Martial Arts,1972,166
+M,Track and Field: Middle Distance,1972,176
+M,Water Polo,1972,176
+M,Weight-Lifting,1972,188
+M,Basketball,1972,190
+M,Bobsledding/Luge,1972,199
+M,Skiing: Alpine,1972,200
+M,Ice Hockey,1972,208
+M,Skiing: Nordic,1972,217
+M,Cycling: Sprints,1972,223
+M,Team Handball,1972,243
+M,Track and Field: Distance,1972,247
+M,Field Hockey,1972,263
+M,Equestrian,1972,269
+M,Football,1972,269
+F,Track and Field: Sprints,1972,275
+M,Canoe/Kayak,1972,298
+M,Cycling: Distance,1972,303
+M,Boxing,1972,354
+M,Fencing,1972,402
+M,Wrestling,1972,409
+M,Rowing,1972,442
+M,Shooting,1972,468
+M,Track and Field: Sprints,1972,479
+F,Swimming (all strokes): Sprints,1972,540
+M,Swimming (all strokes): Sprints,1972,644
+F,Gymnastics,1972,704
+M,Gymnastics,1972,880
+F,Shooting,1976,9
+F,Swimming (all strokes): Distance,1976,19
+F,Bobsledding/Luge,1976,26
+F,Archery,1976,27
+M,Track and Field: Pole Vault,1976,27
+F,"Track and Field: Long, Triple jumps",1976,30
+M,Swimming (all strokes): Distance,1976,31
+F,Track and Field: High Jump,1976,35
+M,Archery,1976,37
+M,Track and Field: High Jump,1976,37
+F,Canoe/Kayak,1976,43
+F,Track and Field: Weights,1976,43
+F,Equestrian,1976,45
+F,Diving,1976,52
+M,Figure Skating,1976,52
+F,Figure Skating,1976,53
+M,Diving,1976,53
+M,"Track and Field: Long, Triple jumps",1976,58
+F,Track and Field: Middle Distance,1976,71
+F,Basketball,1976,72
+F,Team Handball,1976,82
+F,Volleyball,1976,96
+M,Track and Field: Weights,1976,96
+F,Speed Skating,1976,106
+M,Track and Field: Middle Distance,1976,108
+F,Fencing,1976,109
+M,Ski Jumping,1976,109
+M,Volleyball,1976,120
+F,Skiing: Nordic,1976,124
+F,Skiing: Alpine,1976,125
+M,Water Polo,1976,131
+M,Basketball,1976,141
+M,Speed Skating,1976,141
+M,Cycling: Sprints,1976,146
+M,Martial Arts,1976,154
+M,Team Handball,1976,161
+M,Field Hockey,1976,172
+M,Weight-Lifting,1976,173
+M,Track and Field: Distance,1976,182
+M,Equestrian,1976,201
+M,Football,1976,202
+F,Rowing,1976,210
+M,Ice Hockey,1976,217
+F,Track and Field: Sprints,1976,220
+M,Bobsledding/Luge,1976,226
+M,Cycling: Distance,1976,246
+M,Skiing: Alpine,1976,265
+M,Boxing,1976,266
+M,Skiing: Nordic,1976,271
+M,Canoe/Kayak,1976,297
+M,Track and Field: Sprints,1976,342
+M,Wrestling,1976,349
+M,Shooting,1976,360
+M,Fencing,1976,376
+M,Rowing,1976,388
+F,Swimming (all strokes): Sprints,1976,486
+F,Gymnastics,1976,502
+M,Swimming (all strokes): Sprints,1976,540
+M,Gymnastics,1976,702
+F,Shooting,1980,6
+F,Swimming (all strokes): Distance,1980,14
+F,Equestrian,1980,15
+M,Swimming (all strokes): Distance,1980,17
+F,"Track and Field: Long, Triple jumps",1980,19
+M,Track and Field: Pole Vault,1980,19
+F,Track and Field: High Jump,1980,20
+F,Bobsledding/Luge,1980,26
+F,Archery,1980,29
+M,Track and Field: High Jump,1980,30
+F,Canoe/Kayak,1980,35
+M,Archery,1980,38
+M,Figure Skating,1980,40
+F,Diving,1980,41
+F,Figure Skating,1980,45
+M,Diving,1980,47
+F,Track and Field: Middle Distance,1980,52
+F,Track and Field: Weights,1980,52
+M,"Track and Field: Long, Triple jumps",1980,55
+M,Track and Field: Weights,1980,69
+F,Basketball,1980,72
+F,Fencing,1980,78
+F,Team Handball,1980,82
+F,Volleyball,1980,90
+F,Field Hockey,1980,91
+M,Field Hockey,1980,96
+M,Ski Jumping,1980,98
+M,Cycling: Sprints,1980,100
+M,Equestrian,1980,107
+F,Skiing: Nordic,1980,108
+M,Track and Field: Middle Distance,1980,112
+M,Volleyball,1980,114
+F,Skiing: Alpine,1980,123
+F,Speed Skating,1980,128
+M,Water Polo,1980,132
+M,Basketball,1980,143
+F,Rowing,1980,159
+M,Team Handball,1980,166
+M,Speed Skating,1980,168
+M,Weight-Lifting,1980,172
+M,Bobsledding/Luge,1980,176
+M,Martial Arts,1980,193
+M,Skiing: Nordic,1980,201
+M,Skiing: Alpine,1980,204
+M,Cycling: Distance,1980,207
+M,Track and Field: Distance,1980,210
+F,Track and Field: Sprints,1980,212
+M,Canoe/Kayak,1980,218
+M,Ice Hockey,1980,239
+M,Fencing,1980,243
+M,Football,1980,256
+M,Shooting,1980,261
+M,Wrestling,1980,270
+M,Boxing,1980,271
+F,Swimming (all strokes): Sprints,1980,311
+M,Rowing,1980,329
+F,Gymnastics,1980,358
+M,Track and Field: Sprints,1980,378
+M,Swimming (all strokes): Sprints,1980,419
+M,Gymnastics,1980,508
+M,Track and Field: Pole Vault,1984,19
+F,Swimming (all strokes): Distance,1984,20
+F,"Track and Field: Long, Triple jumps",1984,23
+F,Bobsledding/Luge,1984,27
+M,Swimming (all strokes): Distance,1984,27
+F,Track and Field: High Jump,1984,29
+M,Track and Field: High Jump,1984,30
+F,Cycling: Distance,1984,45
+F,Diving,1984,45
+F,Archery,1984,47
+F,Track and Field: Distance,1984,50
+F,Track and Field: Weights,1984,54
+M,Diving,1984,56
+F,Figure Skating,1984,57
+M,Figure Skating,1984,57
+F,Canoe/Kayak,1984,59
+M,"Track and Field: Long, Triple jumps",1984,59
+M,Archery,1984,62
+F,Basketball,1984,71
+F,Track and Field: Middle Distance,1984,77
+F,Team Handball,1984,82
+F,Equestrian,1984,88
+F,Fencing,1984,90
+F,Volleyball,1984,90
+M,Track and Field: Weights,1984,90
+F,Shooting,1984,92
+F,Field Hockey,1984,96
+M,Ski Jumping,1984,111
+M,Volleyball,1984,118
+F,Speed Skating,1984,129
+F,Skiing: Alpine,1984,131
+M,Basketball,1984,142
+M,Cycling: Sprints,1984,148
+M,Water Polo,1984,153
+M,Track and Field: Middle Distance,1984,163
+M,Team Handball,1984,177
+F,Rowing,1984,179
+M,Weight-Lifting,1984,186
+M,Field Hockey,1984,190
+F,Skiing: Nordic,1984,192
+M,Equestrian,1984,193
+M,Speed Skating,1984,199
+M,Martial Arts,1984,212
+M,Bobsledding/Luge,1984,214
+M,Ice Hockey,1984,239
+M,Canoe/Kayak,1984,240
+M,Football,1984,246
+F,Track and Field: Sprints,1984,251
+M,Skiing: Alpine,1984,270
+M,Track and Field: Distance,1984,277
+M,Cycling: Distance,1984,282
+M,Skiing: Nordic,1984,285
+M,Rowing,1984,286
+M,Wrestling,1984,286
+M,Fencing,1984,334
+M,Boxing,1984,354
+F,Gymnastics,1984,412
+F,Swimming (all strokes): Sprints,1984,436
+M,Shooting,1984,447
+M,Track and Field: Sprints,1984,503
+M,Gymnastics,1984,551
+M,Swimming (all strokes): Sprints,1984,749
+F,Cycling: Sprints,1988,12
+M,Track and Field: Pole Vault,1988,21
+F,Bobsledding/Luge,1988,24
+F,Track and Field: High Jump,1988,24
+F,Swimming (all strokes): Distance,1988,27
+M,Track and Field: High Jump,1988,27
+F,"Track and Field: Long, Triple jumps",1988,30
+M,Swimming (all strokes): Distance,1988,35
+F,Diving,1988,47
+F,Cycling: Distance,1988,53
+M,Diving,1988,61
+M,Figure Skating,1988,63
+F,Figure Skating,1988,66
+F,Tennis,1988,76
+F,Track and Field: Weights,1988,76
+F,Table Tennis,1988,78
+M,"Track and Field: Long, Triple jumps",1988,84
+F,Track and Field: Middle Distance,1988,92
+F,Basketball,1988,93
+F,Volleyball,1988,95
+F,Canoe/Kayak,1988,97
+F,Equestrian,1988,99
+F,Track and Field: Distance,1988,104
+F,Fencing,1988,105
+F,Archery,1988,107
+F,Team Handball,1988,111
+M,Track and Field: Weights,1988,118
+F,Field Hockey,1988,124
+M,Tennis,1988,126
+M,Table Tennis,1988,128
+F,Speed Skating,1988,139
+M,Basketball,1988,143
+M,Volleyball,1988,144
+M,Archery,1988,150
+M,Water Polo,1988,156
+M,Ski Jumping,1988,157
+M,Cycling: Sprints,1988,159
+M,Track and Field: Middle Distance,1988,161
+F,Shooting,1988,164
+M,Team Handball,1988,170
+M,Speed Skating,1988,187
+M,Field Hockey,1988,190
+F,Skiing: Nordic,1988,210
+F,Rowing,1988,215
+M,Equestrian,1988,225
+M,Weight-Lifting,1988,226
+F,Skiing: Alpine,1988,241
+M,Martial Arts,1988,243
+M,Bobsledding/Luge,1988,260
+M,Ice Hockey,1988,265
+M,Football,1988,270
+M,Canoe/Kayak,1988,291
+M,Cycling: Distance,1988,294
+M,Skiing: Nordic,1988,318
+M,Track and Field: Distance,1988,321
+M,Shooting,1988,381
+F,Track and Field: Sprints,1988,382
+M,Fencing,1988,401
+M,Rowing,1988,409
+M,Skiing: Alpine,1988,427
+M,Boxing,1988,432
+M,Wrestling,1988,457
+M,Track and Field: Sprints,1988,553
+F,Gymnastics,1988,561
+F,Swimming (all strokes): Sprints,1988,621
+M,Gymnastics,1988,695
+M,Swimming (all strokes): Sprints,1988,931
+F,Swimming (all strokes): Distance,1992,25
+F,Cycling: Sprints,1992,29
+M,Swimming (all strokes): Distance,1992,30
+M,Track and Field: Pole Vault,1992,34
+F,"Track and Field: Long, Triple jumps",1992,35
+F,Track and Field: High Jump,1992,41
+M,Track and Field: High Jump,1992,43
+F,Bobsledding/Luge,1992,49
+M,Diving,1992,55
+F,Cycling: Distance,1992,57
+F,Diving,1992,57
+F,Skiing: Freestyle,1992,70
+F,Track and Field: Weights,1992,71
+F,Volleyball,1992,89
+F,Basketball,1992,94
+M,"Track and Field: Long, Triple jumps",1992,97
+M,Skiing: Freestyle,1992,100
+F,Fencing,1992,106
+F,Badminton,1992,110
+F,Archery,1992,112
+F,Track and Field: Middle Distance,1992,112
+F,Team Handball,1992,113
+M,Badminton,1992,116
+M,Track and Field: Weights,1992,117
+F,Equestrian,1992,123
+F,Table Tennis,1992,124
+M,Table Tennis,1992,124
+M,Tennis,1992,124
+F,Field Hockey,1992,125
+F,Tennis,1992,126
+M,Figure Skating,1992,131
+F,Figure Skating,1992,132
+M,Archery,1992,135
+F,Track and Field: Distance,1992,139
+F,Canoe/Kayak,1992,142
+M,Basketball,1992,142
+M,Track and Field: Middle Distance,1992,142
+M,Volleyball,1992,142
+M,Water Polo,1992,152
+M,Baseball/Softball,1992,160
+F,Martial Arts,1992,163
+M,Cycling: Sprints,1992,169
+F,Shooting,1992,179
+M,Team Handball,1992,179
+M,Field Hockey,1992,189
+F,Rowing,1992,211
+M,Weight-Lifting,1992,244
+M,Martial Arts,1992,270
+M,Football,1992,272
+M,Equestrian,1992,281
+M,Track and Field: Distance,1992,306
+M,Cycling: Distance,1992,311
+F,Track and Field: Sprints,1992,329
+M,Ski Jumping,1992,335
+M,Boxing,1992,336
+M,Fencing,1992,352
+M,Wrestling,1992,371
+M,Shooting,1992,385
+M,Canoe/Kayak,1992,445
+F,Speed Skating,1992,448
+M,Rowing,1992,450
+F,Skiing: Alpine,1992,507
+M,Track and Field: Sprints,1992,520
+M,Ice Hockey,1992,535
+M,Speed Skating,1992,536
+F,Skiing: Nordic,1992,562
+M,Bobsledding/Luge,1992,570
+F,Gymnastics,1992,574
+F,Swimming (all strokes): Sprints,1992,633
+M,Gymnastics,1992,723
+M,Skiing: Alpine,1992,787
+M,Skiing: Nordic,1992,794
+M,Swimming (all strokes): Sprints,1992,927
+F,Swimming (all strokes): Distance,1996,28
+F,Bobsledding/Luge,1996,29
+F,Track and Field: High Jump,1996,32
+M,Swimming (all strokes): Distance,1996,34
+M,Track and Field: High Jump,1996,37
+M,Track and Field: Pole Vault,1996,37
+F,Curling,1996,40
+M,Curling,1996,40
+F,Cycling: Sprints,1996,50
+F,Skiing: Freestyle,1996,52
+M,Skiing: Freestyle,1996,58
+F,Diving,1996,63
+F,Track and Field: Middle Distance,1996,68
+F,Figure Skating,1996,72
+M,Figure Skating,1996,73
+M,Diving,1996,76
+F,"Track and Field: Long, Triple jumps",1996,80
+M,"Track and Field: Long, Triple jumps",1996,95
+F,Track and Field: Weights,1996,96
+F,Equestrian,1996,102
+F,Archery,1996,109
+M,Archery,1996,109
+F,Cycling: Distance,1996,110
+F,Team Handball,1996,118
+F,Baseball/Softball,1996,120
+F,Ice Hockey,1996,120
+F,Tennis,1996,120
+F,Football,1996,124
+F,Table Tennis,1996,125
+M,Table Tennis,1996,126
+M,Tennis,1996,126
+F,Field Hockey,1996,128
+M,Badminton,1996,130
+F,Badminton,1996,133
+M,Basketball,1996,141
+F,Basketball,1996,143
+M,Track and Field: Weights,1996,147
+M,Track and Field: Middle Distance,1996,148
+F,Martial Arts,1996,151
+M,Water Polo,1996,153
+F,Fencing,1996,154
+F,Canoe/Kayak,1996,157
+M,Baseball/Softball,1996,160
+F,Volleyball,1996,170
+M,Cycling: Sprints,1996,170
+M,Ski Jumping,1996,176
+M,Team Handball,1996,182
+F,Shooting,1996,186
+M,Volleyball,1996,189
+M,Field Hockey,1996,192
+F,Track and Field: Distance,1996,213
+F,Rowing,1996,216
+F,Skiing: Alpine,1996,224
+M,Fencing,1996,234
+M,Martial Arts,1996,236
+M,Equestrian,1996,241
+M,Weight-Lifting,1996,243
+M,Skiing: Alpine,1996,253
+F,Speed Skating,1996,254
+M,Cycling: Distance,1996,254
+M,Football,1996,264
+M,Speed Skating,1996,271
+M,Bobsledding/Luge,1996,272
+M,Ice Hockey,1996,306
+M,Track and Field: Distance,1996,318
+F,Skiing: Nordic,1996,340
+M,Boxing,1996,355
+F,Track and Field: Sprints,1996,378
+M,Skiing: Nordic,1996,393
+M,Wrestling,1996,401
+M,Rowing,1996,405
+M,Canoe/Kayak,1996,418
+M,Shooting,1996,426
+F,Gymnastics,1996,666
+M,Track and Field: Sprints,1996,668
+F,Swimming (all strokes): Sprints,1996,767
+M,Swimming (all strokes): Sprints,1996,806
+M,Gymnastics,1996,821
+F,Swimming (all strokes): Distance,2000,26
+F,Track and Field: Pole Vault,2000,30
+M,Track and Field: High Jump,2000,35
+M,Track and Field: Pole Vault,2000,36
+F,Track and Field: High Jump,2000,38
+M,Swimming (all strokes): Distance,2000,41
+F,Curling,2000,47
+M,Curling,2000,49
+F,Skiing: Freestyle,2000,50
+M,Skiing: Freestyle,2000,55
+F,Cycling: Sprints,2000,64
+F,"Track and Field: Long, Triple jumps",2000,66
+F,Figure Skating,2000,71
+F,Bobsledding/Luge,2000,72
+M,Figure Skating,2000,72
+F,Water Polo,2000,78
+F,Track and Field: Middle Distance,2000,80
+F,Weight-Lifting,2000,85
+M,"Track and Field: Long, Triple jumps",2000,93
+F,Archery,2000,100
+F,Equestrian,2000,100
+F,Canoe/Kayak,2000,103
+F,Cycling: Distance,2000,104
+M,Archery,2000,106
+M,Badminton,2000,106
+F,Diving,2000,115
+F,Badminton,2000,119
+F,Baseball/Softball,2000,120
+F,Track and Field: Weights,2000,120
+M,Tennis,2000,122
+M,Diving,2000,123
+F,Football,2000,124
+F,Tennis,2000,126
+F,Table Tennis,2000,132
+F,Fencing,2000,134
+M,Table Tennis,2000,136
+F,Basketball,2000,142
+M,Track and Field: Middle Distance,2000,142
+M,Basketball,2000,144
+F,Team Handball,2000,146
+M,Water Polo,2000,153
+F,Ice Hockey,2000,156
+F,Field Hockey,2000,159
+M,Weight-Lifting,2000,161
+M,Track and Field: Weights,2000,162
+M,Team Handball,2000,177
+M,Ski Jumping,2000,178
+F,Volleyball,2000,186
+M,Volleyball,2000,189
+M,Field Hockey,2000,191
+M,Baseball/Softball,2000,192
+F,Rowing,2000,194
+M,Equestrian,2000,195
+M,Cycling: Sprints,2000,199
+F,Track and Field: Distance,2000,200
+F,Martial Arts,2000,209
+M,Fencing,2000,215
+F,Shooting,2000,225
+F,Skiing: Alpine,2000,248
+M,Cycling: Distance,2000,254
+M,Football,2000,267
+M,Track and Field: Distance,2000,273
+F,Speed Skating,2000,274
+M,Martial Arts,2000,291
+M,Boxing,2000,307
+M,Speed Skating,2000,309
+M,Skiing: Alpine,2000,311
+M,Ice Hockey,2000,312
+M,Wrestling,2000,314
+M,Bobsledding/Luge,2000,324
+M,Canoe/Kayak,2000,345
+F,Skiing: Nordic,2000,354
+M,Rowing,2000,367
+M,Shooting,2000,374
+M,Skiing: Nordic,2000,420
+F,Track and Field: Sprints,2000,464
+F,Gymnastics,2000,598
+M,Gymnastics,2000,654
+M,Track and Field: Sprints,2000,658
+F,Swimming (all strokes): Sprints,2000,727
+M,Swimming (all strokes): Sprints,2000,947
+F,Swimming (all strokes): Distance,2004,29
+F,Track and Field: High Jump,2004,34
+M,Swimming (all strokes): Distance,2004,34
+F,Track and Field: Pole Vault,2004,35
+M,Track and Field: High Jump,2004,38
+M,Track and Field: Pole Vault,2004,39
+M,Curling,2004,45
+F,Curling,2004,46
+F,Wrestling,2004,50
+F,Skiing: Freestyle,2004,53
+F,Cycling: Sprints,2004,61
+M,Skiing: Freestyle,2004,63
+F,"Track and Field: Long, Triple jumps",2004,72
+F,Figure Skating,2004,73
+M,Figure Skating,2004,74
+F,Bobsledding/Luge,2004,77
+F,Weight-Lifting,2004,85
+M,"Track and Field: Long, Triple jumps",2004,87
+F,Track and Field: Middle Distance,2004,88
+M,Diving,2004,97
+F,Diving,2004,99
+M,Badminton,2004,99
+F,Badminton,2004,101
+F,Water Polo,2004,101
+M,Archery,2004,103
+F,Archery,2004,109
+F,Canoe/Kayak,2004,112
+F,Cycling: Distance,2004,116
+F,Baseball/Softball,2004,118
+F,Equestrian,2004,118
+F,Fencing,2004,119
+M,Tennis,2004,124
+F,Tennis,2004,128
+M,Table Tennis,2004,128
+F,Table Tennis,2004,132
+F,Basketball,2004,143
+M,Basketball,2004,144
+M,Track and Field: Weights,2004,146
+F,Team Handball,2004,149
+M,Track and Field: Middle Distance,2004,149
+M,Water Polo,2004,154
+F,Field Hockey,2004,160
+F,Ice Hockey,2004,160
+M,Weight-Lifting,2004,164
+F,Football,2004,166
+F,Track and Field: Weights,2004,173
+M,Team Handball,2004,179
+F,Volleyball,2004,188
+M,Baseball/Softball,2004,191
+M,Volleyball,2004,191
+M,Field Hockey,2004,192
+M,Cycling: Sprints,2004,193
+F,Rowing,2004,195
+F,Shooting,2004,199
+M,Ski Jumping,2004,202
+M,Fencing,2004,204
+F,Track and Field: Distance,2004,211
+F,Martial Arts,2004,217
+M,Cycling: Distance,2004,253
+M,Equestrian,2004,253
+M,Football,2004,259
+M,Track and Field: Distance,2004,263
+M,Bobsledding/Luge,2004,264
+F,Skiing: Alpine,2004,267
+M,Boxing,2004,280
+M,Ice Hockey,2004,282
+M,Martial Arts,2004,291
+M,Wrestling,2004,292
+F,Speed Skating,2004,303
+M,Speed Skating,2004,315
+M,Canoe/Kayak,2004,322
+M,Skiing: Alpine,2004,352
+F,Track and Field: Sprints,2004,354
+M,Shooting,2004,359
+M,Rowing,2004,364
+F,Skiing: Nordic,2004,366
+M,Track and Field: Sprints,2004,413
+M,Skiing: Nordic,2004,446
+F,Gymnastics,2004,607
+M,Gymnastics,2004,660
+F,Swimming (all strokes): Sprints,2004,705
+M,Swimming (all strokes): Sprints,2004,850
+F,Track and Field: High Jump,2008,32
+F,Track and Field: Pole Vault,2008,36
+M,Track and Field: Pole Vault,2008,38
+M,Track and Field: High Jump,2008,40
+F,Curling,2008,46
+M,Curling,2008,47
+F,Cycling: Sprints,2008,50
+F,Swimming (all strokes): Distance,2008,60
+M,Swimming (all strokes): Distance,2008,60
+F,Wrestling,2008,66
+F,Figure Skating,2008,73
+M,Figure Skating,2008,73
+M,"Track and Field: Long, Triple jumps",2008,77
+F,"Track and Field: Long, Triple jumps",2008,78
+F,Skiing: Freestyle,2008,85
+F,Weight-Lifting,2008,87
+M,Skiing: Freestyle,2008,87
+M,Badminton,2008,89
+F,Bobsledding/Luge,2008,90
+F,Diving,2008,91
+M,Diving,2008,91
+F,Archery,2008,94
+F,Badminton,2008,95
+M,Archery,2008,100
+F,Water Polo,2008,103
+F,Cycling: Distance,2008,118
+F,Baseball/Softball,2008,120
+F,Canoe/Kayak,2008,120
+F,Table Tennis,2008,125
+M,Table Tennis,2008,125
+F,Tennis,2008,126
+F,Track and Field: Middle Distance,2008,126
+M,Tennis,2008,128
+F,Equestrian,2008,131
+F,Basketball,2008,143
+M,Basketball,2008,144
+M,Track and Field: Middle Distance,2008,145
+M,Track and Field: Weights,2008,152
+M,Water Polo,2008,153
+F,Ice Hockey,2008,160
+F,Fencing,2008,164
+M,Weight-Lifting,2008,166
+M,Fencing,2008,168
+M,Ski Jumping,2008,170
+F,Team Handball,2008,171
+M,Team Handball,2008,172
+F,Track and Field: Weights,2008,177
+F,Volleyball,2008,188
+M,Cycling: Sprints,2008,188
+F,Field Hockey,2008,191
+F,Track and Field: Distance,2008,191
+M,Baseball/Softball,2008,191
+M,Volleyball,2008,191
+F,Football,2008,195
+M,Field Hockey,2008,196
+F,Rowing,2008,198
+M,Equestrian,2008,209
+F,Shooting,2008,214
+F,Martial Arts,2008,219
+M,Cycling: Distance,2008,248
+M,Ice Hockey,2008,260
+M,Bobsledding/Luge,2008,263
+M,Football,2008,274
+M,Wrestling,2008,277
+M,Track and Field: Distance,2008,282
+M,Boxing,2008,283
+M,Martial Arts,2008,293
+F,Skiing: Alpine,2008,304
+F,Speed Skating,2008,316
+M,Canoe/Kayak,2008,316
+M,Speed Skating,2008,323
+F,Skiing: Nordic,2008,351
+M,Shooting,2008,363
+M,Rowing,2008,365
+M,Skiing: Nordic,2008,374
+M,Skiing: Alpine,2008,381
+F,Track and Field: Sprints,2008,385
+M,Track and Field: Sprints,2008,402
+F,Gymnastics,2008,546
+M,Gymnastics,2008,577
+F,Swimming (all strokes): Sprints,2008,770
+M,Swimming (all strokes): Sprints,2008,859
+F,Ski Jumping,2012,30
+M,Track and Field: Pole Vault,2012,32
+F,Track and Field: High Jump,2012,34
+M,Track and Field: High Jump,2012,35
+F,Boxing,2012,36
+F,Track and Field: Pole Vault,2012,39
+F,Curling,2012,43
+M,Curling,2012,44
+M,Swimming (all strokes): Distance,2012,56
+F,Swimming (all strokes): Distance,2012,59
+F,"Track and Field: Long, Triple jumps",2012,65
+M,"Track and Field: Long, Triple jumps",2012,69
+F,Wrestling,2012,76
+F,Diving,2012,88
+M,Badminton,2012,88
+M,Diving,2012,93
+F,Badminton,2012,94
+F,Cycling: Distance,2012,96
+F,Archery,2012,100
+M,Archery,2012,100
+F,Bobsledding/Luge,2012,101
+F,Water Polo,2012,102
+F,Weight-Lifting,2012,103
+M,Figure Skating,2012,110
+F,Figure Skating,2012,111
+F,Cycling: Sprints,2012,112
+M,Table Tennis,2012,117
+F,Table Tennis,2012,119
+F,Skiing: Freestyle,2012,123
+F,Track and Field: Middle Distance,2012,130
+F,Equestrian,2012,132
+M,Track and Field: Middle Distance,2012,137
+M,Skiing: Freestyle,2012,141
+F,Tennis,2012,142
+F,Basketball,2012,143
+M,Basketball,2012,144
+M,Tennis,2012,144
+F,Track and Field: Weights,2012,145
+M,Cycling: Sprints,2012,146
+M,Weight-Lifting,2012,149
+F,Canoe/Kayak,2012,153
+M,Water Polo,2012,155
+F,Ice Hockey,2012,158
+M,Track and Field: Weights,2012,166
+M,Ski Jumping,2012,170
+F,Team Handball,2012,171
+M,Fencing,2012,171
+F,Fencing,2012,174
+M,Team Handball,2012,176
+F,Field Hockey,2012,191
+F,Volleyball,2012,191
+M,Cycling: Distance,2012,191
+M,Volleyball,2012,192
+M,Field Hockey,2012,196
+F,Rowing,2012,197
+F,Football,2012,200
+F,Martial Arts,2012,217
+M,Equestrian,2012,218
+F,Shooting,2012,229
+F,Track and Field: Distance,2012,236
+M,Boxing,2012,247
+M,Wrestling,2012,263
+M,Canoe/Kayak,2012,265
+M,Football,2012,267
+M,Ice Hockey,2012,285
+M,Martial Arts,2012,295
+M,Track and Field: Distance,2012,295
+F,Skiing: Alpine,2012,303
+F,Speed Skating,2012,315
+M,Speed Skating,2012,322
+M,Bobsledding/Luge,2012,324
+M,Shooting,2012,331
+F,Skiing: Nordic,2012,348
+M,Rowing,2012,353
+M,Skiing: Alpine,2012,384
+F,Track and Field: Sprints,2012,410
+M,Track and Field: Sprints,2012,416
+M,Skiing: Nordic,2012,417
+M,Gymnastics,2012,482
+F,Gymnastics,2012,493
+M,Swimming (all strokes): Sprints,2012,707
+F,Swimming (all strokes): Sprints,2012,716
+M,Track and Field: Pole Vault,2016,31
+F,Track and Field: High Jump,2016,35
+F,Boxing,2016,36
+F,Track and Field: Pole Vault,2016,36
+M,Track and Field: High Jump,2016,44
+F,Swimming (all strokes): Distance,2016,53
+F,Golf,2016,60
+M,Golf,2016,60
+M,Swimming (all strokes): Distance,2016,70
+F,"Track and Field: Long, Triple jumps",2016,75
+M,"Track and Field: Long, Triple jumps",2016,79
+F,Badminton,2016,88
+F,Diving,2016,89
+M,Badminton,2016,89
+M,Diving,2016,89
+F,Cycling: Distance,2016,97
+F,Archery,2016,100
+M,Archery,2016,100
+F,Weight-Lifting,2016,103
+F,Water Polo,2016,104
+F,Wrestling,2016,112
+F,Table Tennis,2016,118
+M,Table Tennis,2016,118
+F,Equestrian,2016,131
+F,Track and Field: Weights,2016,133
+F,Cycling: Sprints,2016,136
+M,Track and Field: Weights,2016,138
+F,Basketball,2016,140
+M,Basketball,2016,141
+F,Tennis,2016,143
+M,Tennis,2016,143
+M,Track and Field: Middle Distance,2016,144
+F,Rugby,2016,148
+M,Rugby,2016,151
+M,Weight-Lifting,2016,152
+M,Water Polo,2016,154
+M,Cycling: Sprints,2016,157
+F,Track and Field: Middle Distance,2016,159
+F,Canoe/Kayak,2016,162
+M,Fencing,2016,172
+F,Fencing,2016,174
+F,Team Handball,2016,176
+M,Team Handball,2016,177
+M,Volleyball,2016,189
+F,Volleyball,2016,190
+M,Cycling: Distance,2016,193
+F,Field Hockey,2016,194
+M,Field Hockey,2016,196
+F,Football,2016,203
+F,Shooting,2016,214
+F,Martial Arts,2016,216
+F,Rowing,2016,219
+M,Equestrian,2016,224
+M,Wrestling,2016,234
+M,Boxing,2016,247
+M,Football,2016,270
+M,Canoe/Kayak,2016,279
+M,Martial Arts,2016,299
+F,Track and Field: Distance,2016,300
+M,Rowing,2016,331
+M,Shooting,2016,341
+M,Track and Field: Distance,2016,394
+M,Track and Field: Sprints,2016,438
+F,Track and Field: Sprints,2016,439
+M,Gymnastics,2016,494
+F,Gymnastics,2016,495
+F,Swimming (all strokes): Sprints,2016,708
+M,Swimming (all strokes): Sprints,2016,737
