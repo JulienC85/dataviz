@@ -1,0 +1,606 @@
+Noms de mesures,Sex,Year (classe),Valeurs de mesures
+Agility,F,1900,115.5
+Analytical Aptitude,F,1900,155.06
+Durability,F,1900,89.3
+Endurance,F,1900,126.26
+Flexibility,F,1900,113.32
+Hand-Eye Coordination,F,1900,166.32
+Nerve,F,1900,73
+Nombre d'enregistrements,F,1900,24
+Power,F,1900,150.36
+Speed,F,1900,99.8
+Strength,F,1900,106.86
+Agility,F,1904,111.33
+Analytical Aptitude,F,1904,126.25
+Durability,F,1904,89.08
+Endurance,F,1904,125.83
+Flexibility,F,1904,104.01
+Hand-Eye Coordination,F,1904,198.26
+Nerve,F,1904,77
+Nombre d'enregistrements,F,1904,27
+Power,F,1904,128.51
+Speed,F,1904,92.33
+Strength,F,1904,128.43
+Agility,F,1908,188.79
+Analytical Aptitude,F,1908,196.25
+Durability,F,1908,145.25
+Endurance,F,1908,210.04
+Flexibility,F,1908,199.31
+Hand-Eye Coordination,F,1908,291.35
+Nerve,F,1908,143.79
+Nombre d'enregistrements,F,1908,45
+Power,F,1908,216.85
+Speed,F,1908,150.29
+Strength,F,1908,216.06
+Agility,F,1912,437.59
+Analytical Aptitude,F,1912,373.5
+Durability,F,1912,359.75
+Endurance,F,1912,435.41
+Flexibility,F,1912,524.4
+Hand-Eye Coordination,F,1912,411.65
+Nerve,F,1912,314.82
+Nombre d'enregistrements,F,1912,87
+Power,F,1912,547.47
+Speed,F,1912,583.34
+Strength,F,1912,451.47
+Agility,F,1920,736.43
+Analytical Aptitude,F,1920,608.5
+Durability,F,1920,563.75
+Endurance,F,1920,715.15
+Flexibility,F,1920,828.26
+Hand-Eye Coordination,F,1920,665.83
+Nerve,F,1920,501.04
+Nombre d'enregistrements,F,1920,132
+Power,F,1920,845.3
+Speed,F,1920,850.18
+Strength,F,1920,684.48
+Agility,F,1924,1243
+Analytical Aptitude,F,1924,1076.75
+Durability,F,1924,954
+Endurance,F,1924,1184.14
+Flexibility,F,1924,1392.12
+Hand-Eye Coordination,F,1924,1166.83
+Nerve,F,1924,869.1
+Nombre d'enregistrements,F,1924,227
+Power,F,1924,1394.97
+Speed,F,1924,1453
+Strength,F,1924,1142.01
+Agility,F,1928,1806.39
+Analytical Aptitude,F,1928,1324.06
+Durability,F,1928,1643.2
+Endurance,F,1928,1659.38
+Flexibility,F,1928,2448.55
+Hand-Eye Coordination,F,1928,1301.98
+Nerve,F,1928,1502.31
+Nombre d'enregistrements,F,1928,380
+Power,F,1928,2421.56
+Speed,F,1928,2521.63
+Strength,F,1928,2060.21
+Agility,F,1932,942.48
+Analytical Aptitude,F,1932,690.36
+Durability,F,1932,801.1
+Endurance,F,1932,851.03
+Flexibility,F,1932,1217.4
+Hand-Eye Coordination,F,1932,691.25
+Nerve,F,1932,687.77
+Nombre d'enregistrements,F,1932,211
+Power,F,1932,1378.27
+Speed,F,1932,1487.77
+Strength,F,1932,1126.3
+Agility,F,1936,2400.15
+Analytical Aptitude,F,1936,1804.63
+Durability,F,1936,2167.53
+Endurance,F,1936,2123.92
+Flexibility,F,1936,3150.27
+Hand-Eye Coordination,F,1936,1810.45
+Nerve,F,1936,2162.55
+Nombre d'enregistrements,F,1936,493
+Power,F,1936,3161.27
+Speed,F,1936,3240.04
+Strength,F,1936,2667.97
+Agility,F,1948,3350.45
+Analytical Aptitude,F,1948,2517.03
+Durability,F,1948,3065.27
+Endurance,F,1948,2960.56
+Flexibility,F,1948,4199.61
+Hand-Eye Coordination,F,1948,2555.27
+Nerve,F,1948,3025.57
+Nombre d'enregistrements,F,1948,683
+Power,F,1948,4489.63
+Speed,F,1948,4605.86
+Strength,F,1948,3753.31
+Agility,F,1952,9398.13
+Analytical Aptitude,F,1952,6533.58
+Durability,F,1952,9520.25
+Endurance,F,1952,8216.48
+Flexibility,F,1952,13356.19
+Hand-Eye Coordination,F,1952,6860.71
+Nerve,F,1952,9886.1
+Nombre d'enregistrements,F,1952,1679
+Power,F,1952,11039.61
+Speed,F,1952,10005.92
+Strength,F,1952,9732.07
+Agility,F,1956,5978.53
+Analytical Aptitude,F,1956,4453.28
+Durability,F,1956,6046.54
+Endurance,F,1956,5623.09
+Flexibility,F,1956,8070.44
+Hand-Eye Coordination,F,1956,4517.99
+Nerve,F,1956,6245.6
+Nombre d'enregistrements,F,1956,1139
+Power,F,1956,7233.28
+Speed,F,1956,6844.56
+Strength,F,1956,6470.69
+Agility,F,1960,9188.95
+Analytical Aptitude,F,1960,6905.15
+Durability,F,1960,9187.25
+Endurance,F,1960,8739.8
+Flexibility,F,1960,12570.82
+Hand-Eye Coordination,F,1960,7017.97
+Nerve,F,1960,9458.76
+Nombre d'enregistrements,F,1960,1729
+Power,F,1960,11063.14
+Speed,F,1960,10530.54
+Strength,F,1960,9889.4
+Agility,F,1964,8811.39
+Analytical Aptitude,F,1964,6814.51
+Durability,F,1964,8594.62
+Endurance,F,1964,8780.96
+Flexibility,F,1964,11310.42
+Hand-Eye Coordination,F,1964,6854.49
+Nerve,F,1964,8470.07
+Nombre d'enregistrements,F,1964,1731
+Power,F,1964,10966.52
+Speed,F,1964,11011.82
+Strength,F,1964,9722.17
+Agility,F,1968,10736.22
+Analytical Aptitude,F,1968,8348.14
+Durability,F,1968,10463.81
+Endurance,F,1968,10838.16
+Flexibility,F,1968,14108.05
+Hand-Eye Coordination,F,1968,8342.59
+Nerve,F,1968,10243.1
+Nombre d'enregistrements,F,1968,2160
+Power,F,1968,13532.93
+Speed,F,1968,13824.07
+Strength,F,1968,11995.46
+Agility,F,1972,12551.86
+Analytical Aptitude,F,1972,9818.97
+Durability,F,1972,12410.47
+Endurance,F,1972,12874.43
+Flexibility,F,1972,16632.05
+Hand-Eye Coordination,F,1972,9908.04
+Nerve,F,1972,11901.78
+Nombre d'enregistrements,F,1972,2578
+Power,F,1972,15934.86
+Speed,F,1972,16227.82
+Strength,F,1972,14250.19
+Agility,F,1976,12387.88
+Analytical Aptitude,F,1976,10371.84
+Durability,F,1976,12270.57
+Endurance,F,1976,13765.7
+Flexibility,F,1976,15523.84
+Hand-Eye Coordination,F,1976,10401.63
+Nerve,F,1976,10916.14
+Nombre d'enregistrements,F,1976,2585
+Power,F,1976,16024.96
+Speed,F,1976,15914.72
+Strength,F,1976,14553.73
+Agility,F,1980,10576.23
+Analytical Aptitude,F,1980,8996.19
+Durability,F,1980,10386.15
+Endurance,F,1980,11820.03
+Flexibility,F,1980,12577.71
+Hand-Eye Coordination,F,1980,9142.72
+Nerve,F,1980,9048.77
+Nombre d'enregistrements,F,1980,2166
+Power,F,1980,13531.92
+Speed,F,1980,13534.3
+Strength,F,1980,12195.78
+Agility,F,1984,13093.96
+Analytical Aptitude,F,1984,11770.06
+Durability,F,1984,13341.13
+Endurance,F,1984,15728.01
+Flexibility,F,1984,15774.12
+Hand-Eye Coordination,F,1984,11745.05
+Nerve,F,1984,11611.5
+Nombre d'enregistrements,F,1984,2872
+Power,F,1984,16868.27
+Speed,F,1984,17035.12
+Strength,F,1984,15681.52
+Agility,F,1988,18669.72
+Analytical Aptitude,F,1988,16932.12
+Durability,F,1988,18568.79
+Endurance,F,1988,21827.91
+Flexibility,F,1988,22106.27
+Hand-Eye Coordination,F,1988,17460.52
+Nerve,F,1988,16128.33
+Nombre d'enregistrements,F,1988,4073
+Power,F,1988,23723.01
+Speed,F,1988,24095.449999999
+Strength,F,1988,21743.05
+Agility,F,1992,26893.03
+Analytical Aptitude,F,1992,24671.219999999
+Durability,F,1992,26465
+Endurance,F,1992,32396.95
+Flexibility,F,1992,30324.13
+Hand-Eye Coordination,F,1992,24739.139999999
+Nerve,F,1992,23855.1
+Nombre d'enregistrements,F,1992,5687
+Power,F,1992,32961.679999999
+Speed,F,1992,34141.989999999
+Strength,F,1992,30689
+Agility,F,1996,29018.319999999
+Analytical Aptitude,F,1996,26772.589999999
+Durability,F,1996,27916.56
+Endurance,F,1996,33106.64
+Flexibility,F,1996,31770.849999999
+Hand-Eye Coordination,F,1996,27499.989999999
+Nerve,F,1996,23664.02
+Nombre d'enregistrements,F,1996,5938
+Power,F,1996,34867.309999999
+Speed,F,1996,35333.809999999
+Strength,F,1996,31746.66
+Agility,F,2000,31173.649999999
+Analytical Aptitude,F,2000,28805.659999999
+Durability,F,2000,30146.599999999
+Endurance,F,2000,35002.01
+Flexibility,F,2000,33646.429999999
+Hand-Eye Coordination,F,2000,29807.549999999
+Nerve,F,2000,25826.469999999
+Nombre d'enregistrements,F,2000,6386
+Power,F,2000,38130.459999999
+Speed,F,2000,38010.209999999
+Strength,F,2000,34547.07
+Agility,F,2004,32001.729999999
+Analytical Aptitude,F,2004,29804.699999999
+Durability,F,2004,31161.219999999
+Endurance,F,2004,36365.97
+Flexibility,F,2004,34263.509999999
+Hand-Eye Coordination,F,2004,30514.529999999
+Nerve,F,2004,26736.579999999
+Nombre d'enregistrements,F,2004,6519
+Power,F,2004,39111.829999999
+Speed,F,2004,38327.469999999
+Strength,F,2004,35745.86
+Agility,F,2008,33572.609999999
+Analytical Aptitude,F,2008,31346.889999999
+Durability,F,2008,32453.07
+Endurance,F,2008,37993.85
+Flexibility,F,2008,35638.829999999
+Hand-Eye Coordination,F,2008,31931.539999999
+Nerve,F,2008,27889.649999999
+Nombre d'enregistrements,F,2008,6835
+Power,F,2008,40851.619999999
+Speed,F,2008,40547.809999999
+Strength,F,2008,37270.729999999
+Agility,F,2012,33787.519999999
+Analytical Aptitude,F,2012,31624.409999999
+Durability,F,2012,32795.58
+Endurance,F,2012,38735.1
+Flexibility,F,2012,35852.549999999
+Hand-Eye Coordination,F,2012,31744.379999999
+Nerve,F,2012,28406.78
+Nombre d'enregistrements,F,2012,6925
+Power,F,2012,41138.519999999
+Speed,F,2012,40978.999999999
+Strength,F,2012,37699.56
+Agility,F,2016,27672.87
+Analytical Aptitude,F,2016,26578.48
+Durability,F,2016,27021
+Endurance,F,2016,31309.549999999
+Flexibility,F,2016,30109.059999999
+Hand-Eye Coordination,F,2016,26681.89
+Nerve,F,2016,21734.89
+Nombre d'enregistrements,F,2016,5786
+Power,F,2016,34405.969999999
+Speed,F,2016,33138.439999999
+Strength,F,2016,31118.979999999
+Agility,M,1896,1688.78
+Analytical Aptitude,M,1896,1558.95
+Durability,M,1896,1821.09
+Endurance,M,1896,1932.7
+Flexibility,M,1896,2098.29
+Hand-Eye Coordination,M,1896,1720.15
+Nerve,M,1896,1621.35
+Nombre d'enregistrements,M,1896,380
+Power,M,1896,2172.16
+Speed,M,1896,1940.13
+Strength,M,1896,2029.75
+Agility,M,1900,6645.44
+Analytical Aptitude,M,1900,7235.7
+Durability,M,1900,6530.59
+Endurance,M,1900,7569.4
+Flexibility,M,1900,7303.78
+Hand-Eye Coordination,M,1900,7714.52
+Nerve,M,1900,5982.36
+Nombre d'enregistrements,M,1900,1542
+Power,M,1900,7897.59
+Speed,M,1900,7489.68
+Strength,M,1900,7586.38
+Agility,M,1904,12883.66
+Analytical Aptitude,M,1904,12691.75
+Durability,M,1904,13800.93
+Endurance,M,1904,15401.69
+Flexibility,M,1904,15967.92
+Hand-Eye Coordination,M,1904,13363.86
+Nerve,M,1904,11893.76
+Nombre d'enregistrements,M,1904,2903
+Power,M,1904,16990.66
+Speed,M,1904,14381.49
+Strength,M,1904,16052.14
+Agility,M,1908,12789.29
+Analytical Aptitude,M,1908,12880.56
+Durability,M,1908,13418.06
+Endurance,M,1908,14941.72
+Flexibility,M,1908,14550.44
+Hand-Eye Coordination,M,1908,13626.76
+Nerve,M,1908,11416.92
+Nombre d'enregistrements,M,1908,2912
+Power,M,1908,16120.23
+Speed,M,1908,15054.42
+Strength,M,1908,15408.66
+Agility,M,1912,15249.2
+Analytical Aptitude,M,1912,16750.31
+Durability,M,1912,16224.94
+Endurance,M,1912,19205.35
+Flexibility,M,1912,17286.56
+Hand-Eye Coordination,M,1912,17629.77
+Nerve,M,1912,13759.47
+Nombre d'enregistrements,M,1912,3708
+Power,M,1912,18314.58
+Speed,M,1912,17357.8
+Strength,M,1912,18381.24
+Agility,M,1920,16372.38
+Analytical Aptitude,M,1920,18102
+Durability,M,1920,17523.29
+Endurance,M,1920,20237.4
+Flexibility,M,1920,17665.11
+Hand-Eye Coordination,M,1920,19470.3
+Nerve,M,1920,15019.49
+Nombre d'enregistrements,M,1920,3926
+Power,M,1920,19610.62
+Speed,M,1920,18602.57
+Strength,M,1920,19658.72
+Agility,M,1924,23143.7
+Analytical Aptitude,M,1924,22723.55
+Durability,M,1924,24454.28
+Endurance,M,1924,27433.99
+Flexibility,M,1924,25217.6
+Hand-Eye Coordination,M,1924,22655.22
+Nerve,M,1924,21313.42
+Nombre d'enregistrements,M,1924,4876
+Power,M,1924,27745.34
+Speed,M,1924,26014.13
+Strength,M,1924,26881.56
+Agility,M,1928,20825.78
+Analytical Aptitude,M,1928,19308.72
+Durability,M,1928,21649.47
+Endurance,M,1928,24032.87
+Flexibility,M,1928,22696.38
+Hand-Eye Coordination,M,1928,18025.51
+Nerve,M,1928,19484.06
+Nombre d'enregistrements,M,1928,4148
+Power,M,1928,25572.77
+Speed,M,1928,24104.78
+Strength,M,1928,24077.7
+Agility,M,1932,8426.98
+Analytical Aptitude,M,1932,8081.46
+Durability,M,1932,9223.34
+Endurance,M,1932,10806.41
+Flexibility,M,1932,9411.91
+Hand-Eye Coordination,M,1932,7645.75
+Nerve,M,1932,8002.64
+Nombre d'enregistrements,M,1932,1854
+Power,M,1932,11485.03
+Speed,M,1932,10776.01
+Strength,M,1932,10960.01
+Agility,M,1936,28979.19
+Analytical Aptitude,M,1936,27608.11
+Durability,M,1936,30269.57
+Endurance,M,1936,33992.88
+Flexibility,M,1936,31469.56
+Hand-Eye Coordination,M,1936,26607.06
+Nerve,M,1936,27106.48
+Nombre d'enregistrements,M,1936,5778
+Power,M,1936,34681.629999999
+Speed,M,1936,32262.1
+Strength,M,1936,33050.44
+Agility,M,1948,30611.93
+Analytical Aptitude,M,1948,28868.58
+Durability,M,1948,32342.95
+Endurance,M,1948,35487.2
+Flexibility,M,1948,33203.59
+Hand-Eye Coordination,M,1948,27849.14
+Nerve,M,1948,29326.77
+Nombre d'enregistrements,M,1948,6021
+Power,M,1948,36495.499999999
+Speed,M,1948,34097.87
+Strength,M,1948,34773.79
+Agility,M,1952,36971.32
+Analytical Aptitude,M,1952,34254.38
+Durability,M,1952,39416.25
+Endurance,M,1952,42706.179999999
+Flexibility,M,1952,41511.97
+Hand-Eye Coordination,M,1952,33132.92
+Nerve,M,1952,35697.36
+Nombre d'enregistrements,M,1952,7300
+Power,M,1952,44347.029999999
+Speed,M,1952,40880.4
+Strength,M,1952,42285.509999999
+Agility,M,1956,23971.46
+Analytical Aptitude,M,1956,23428.59
+Durability,M,1956,25755.3
+Endurance,M,1956,29217.18
+Flexibility,M,1956,25349.08
+Hand-Eye Coordination,M,1956,22139.56
+Nerve,M,1956,23499.98
+Nombre d'enregistrements,M,1956,5014
+Power,M,1956,29937.37
+Speed,M,1956,28587.91
+Strength,M,1956,28708.05
+Agility,M,1960,33855.94
+Analytical Aptitude,M,1960,32760.32
+Durability,M,1960,36662.82
+Endurance,M,1960,41247.669999999
+Flexibility,M,1960,37582.789999999
+Hand-Eye Coordination,M,1960,31524.12
+Nerve,M,1960,32376.48
+Nombre d'enregistrements,M,1960,7012
+Power,M,1960,41964.629999999
+Speed,M,1960,38448.519999999
+Strength,M,1960,40492.66
+Agility,M,1964,36224.099999999
+Analytical Aptitude,M,1964,34432.7
+Durability,M,1964,38736.76
+Endurance,M,1964,42870.649999999
+Flexibility,M,1964,39309.849999999
+Hand-Eye Coordination,M,1964,33241.62
+Nerve,M,1964,35101.1
+Nombre d'enregistrements,M,1964,7329
+Power,M,1964,44915.889999999
+Speed,M,1964,41975.789999999
+Strength,M,1964,42519.14
+Agility,M,1968,37673.569999999
+Analytical Aptitude,M,1968,36148.539999999
+Durability,M,1968,40062.21
+Endurance,M,1968,44897.389999999
+Flexibility,M,1968,40554.409999999
+Hand-Eye Coordination,M,1968,35061.05
+Nerve,M,1968,36108.98
+Nombre d'enregistrements,M,1968,7751
+Power,M,1968,46945.539999999
+Speed,M,1968,44448.82
+Strength,M,1968,44483.87
+Agility,M,1972,41626.919999999
+Analytical Aptitude,M,1972,40915.519999999
+Durability,M,1972,44080.47
+Endurance,M,1972,50073.959999999
+Flexibility,M,1972,44761.799999999
+Hand-Eye Coordination,M,1972,40003.87
+Nerve,M,1972,39400.019999999
+Nombre d'enregistrements,M,1972,8733
+Power,M,1972,52558.009999999
+Speed,M,1972,48755.71
+Strength,M,1972,49628.269999999
+Agility,M,1976,35200.269999999
+Analytical Aptitude,M,1976,34600.419999999
+Durability,M,1976,37269.59
+Endurance,M,1976,42522.129999999
+Flexibility,M,1976,37873.129999999
+Hand-Eye Coordination,M,1976,33623.52
+Nerve,M,1976,34039.95
+Nombre d'enregistrements,M,1976,7377
+Power,M,1976,44641.289999999
+Speed,M,1976,41172.379999999
+Strength,M,1976,42249.629999999
+Agility,M,1980,30754.429999999
+Analytical Aptitude,M,1980,29776.01
+Durability,M,1980,32597.39
+Endurance,M,1980,37130.909999999
+Flexibility,M,1980,32191.91
+Hand-Eye Coordination,M,1980,28909.79
+Nerve,M,1980,28731.04
+Nombre d'enregistrements,M,1980,6306
+Power,M,1980,39062.659999999
+Speed,M,1980,36548.72
+Strength,M,1980,36647.649999999
+Agility,M,1984,37467.239999999
+Analytical Aptitude,M,1984,36801.439999999
+Durability,M,1984,39778.59
+Endurance,M,1984,45623.879999999
+Flexibility,M,1984,39624.529999999
+Hand-Eye Coordination,M,1984,35988.26
+Nerve,M,1984,35529.77
+Nombre d'enregistrements,M,1984,7955
+Power,M,1984,47890.289999999
+Speed,M,1984,46027.82
+Strength,M,1984,44968.05
+Agility,M,1988,46381.43
+Analytical Aptitude,M,1988,45170.589999999
+Durability,M,1988,48337.1
+Endurance,M,1988,55408.44
+Flexibility,M,1988,49138.8
+Hand-Eye Coordination,M,1988,44455.15
+Nerve,M,1988,43507.17
+Nombre d'enregistrements,M,1988,9679
+Power,M,1988,58943
+Speed,M,1988,55792.760000001
+Strength,M,1988,55083.07
+Agility,M,1992,58562.720000001
+Analytical Aptitude,M,1992,56581.289999999
+Durability,M,1992,60415.55
+Endurance,M,1992,70194.520000002
+Flexibility,M,1992,60360.14
+Hand-Eye Coordination,M,1992,55730.109999999
+Nerve,M,1992,56970.879999999
+Nombre d'enregistrements,M,1992,12131
+Power,M,1992,73668.84
+Speed,M,1992,71142.390000001
+Strength,M,1992,68874.760000001
+Agility,M,1996,48827.160000001
+Analytical Aptitude,M,1996,46917.72
+Durability,M,1996,50071.1
+Endurance,M,1996,57728.400000001
+Flexibility,M,1996,51677.999999999
+Hand-Eye Coordination,M,1996,46954.99
+Nerve,M,1996,44551.919999999
+Nombre d'enregistrements,M,1996,10184
+Power,M,1996,62074.74
+Speed,M,1996,58233.820000001
+Strength,M,1996,57640.560000001
+Agility,M,2000,48019.9
+Analytical Aptitude,M,2000,46030.789999999
+Durability,M,2000,48750.76
+Endurance,M,2000,56144.020000001
+Flexibility,M,2000,50361.189999999
+Hand-Eye Coordination,M,2000,46209.6
+Nerve,M,2000,43757.509999999
+Nombre d'enregistrements,M,2000,9999
+Power,M,2000,61137.86
+Speed,M,2000,58676.69
+Strength,M,2000,56180.95
+Agility,M,2004,45997.99
+Analytical Aptitude,M,2004,44614.529999999
+Durability,M,2004,46879.35
+Endurance,M,2004,54290.05
+Flexibility,M,2004,48123.389999999
+Hand-Eye Coordination,M,2004,44597.64
+Nerve,M,2004,42635.779999999
+Nombre d'enregistrements,M,2004,9558
+Power,M,2004,57849.17
+Speed,M,2004,54844.47
+Strength,M,2004,53644.44
+Agility,M,2008,44916.679999999
+Analytical Aptitude,M,2008,43558.009999999
+Durability,M,2008,45737.68
+Endurance,M,2008,53185.64
+Flexibility,M,2008,46764.53
+Hand-Eye Coordination,M,2008,43537.779999999
+Nerve,M,2008,41360.129999999
+Nombre d'enregistrements,M,2008,9340
+Power,M,2008,56729.579999999
+Speed,M,2008,53955.31
+Strength,M,2008,52513.919999999
+Agility,M,2012,42878.909999999
+Analytical Aptitude,M,2012,41456.829999999
+Durability,M,2012,43432.63
+Endurance,M,2012,50885.75
+Flexibility,M,2012,44465.25
+Hand-Eye Coordination,M,2012,40909.279999999
+Nerve,M,2012,39420.179999999
+Nombre d'enregistrements,M,2012,8893
+Power,M,2012,53521.15
+Speed,M,2012,51289.08
+Strength,M,2012,49834.619999999
+Agility,M,2016,33176.63
+Analytical Aptitude,M,2016,32995.5
+Durability,M,2016,33924.21
+Endurance,M,2016,39946.669999999
+Flexibility,M,2016,35627.82
+Hand-Eye Coordination,M,2016,32546.61
+Nerve,M,2016,27874.82
+Nombre d'enregistrements,M,2016,7075
+Power,M,2016,42119.429999999
+Speed,M,2016,39113.299999999
+Strength,M,2016,39033.579999999
