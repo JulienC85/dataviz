@@ -1,1 +1,39 @@
-<h1>Test</h1>
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Etude de compétences sportives aux JO</title>
+        <link rel="stylesheet" href="style.css">
+        <!-- Load plotly.js into the DOM -->
+	    <script src='https://cdn.plot.ly/plotly-latest.min.js'></script>
+        <script src="papaparse/papaparse.js"></script>
+    </head>
+    <body>
+            <h1>Etude de compétences sportives aux JO</h1>
+            <p>Les Jeux Olympiques d'Été se déroulant cette année à Tokyo au Japon, nous avons choisi d'étudier  les caractéristiques des sports pratiqués aux Jeux Olympiques modernes depuis leur création en 1896.</p>
+            <h1>Présentation des jeux de données</h1>
+            <h2>Premier jeu de données - Historique des JO</h2>
+            <img src="img/olympic-rings.jpg" alt="Anneaux olympiques">
+            <p>Le premier jeu de données contient l'historique des participations aux Jeux Olympiques modernes depuis 1896 jusqu'à 2016. Ces données sont issues du site www.sports-reference.com  et ont été mises en forme par rgriffin (www.kaggle.com).</p>
+            <p>Au total, 271 116 participations sont inscrites et permettent d'obtenir des informations sur l'athlète concerné (nom, prénom, pays d'origine,  taille, poids, sexe...) et ses résultats (médaille d'or, d'argent, de bronze ou aucune médaille). Ce jeu de données est relativement riche et va nous permettre d'analyser les pratiques sportives d'un  panel important d'athlètes sur un intervalle de temps conséquent (plus d'un siècle) à travers l'événement sportif le plus important au monde.</p>
+            <h2>Second jeu de données - Compétences sportives</h2>
+            <p>Le second jeu de données contient, pour 60 disciplines sportives, une évaluation selon différentes compétences sportives.</p>
+            <p>Ces données sont issues de la chaîne américaine sportive ESPN qui a fait appel à un panel d'experts  (scientifiques du sport au comité olympique des Etats-Unis, académiciens qui étudient la science des muscles et du mouvement, sportif et journalistes sportifs) pour évaluer les différents sports.</p>
+            <img src="img/espn.png" alt="Logo ESPN">
+            <p>Ainsi, pour chacune des 60 activités, des notes entre 1 et 10 sont données pour évaluer des compétences telles que l'endurance, la force, la vitesse, l'agilité, etc.</p>
+            <p>Ce jeu de données a été associé à l'historique des participations aux JO, à travers le champ relatif au sport, pour nous permettre d'analyser les compétences sportives, non plus à l'échelle d'un sport uniquement, mais à l'échelle d'un ensemble d'athlètes.</p>
+            <img src="img/sports.png" alt="Sports">
+            <h1>Caractéristiques sportives H/F</h1>
+            <p>Tout d'abord, nous nous sommes demandés si les hommes et les femmes pratiquaient des sports aux caractéristiques différentes.</p>
+            <div id='graphe_hf_caract'><div>
+            <div id="map"></div>
+
+
+            <!-- <script src="charts.js"></script> -->
+            <script src="chart_map.js"></script>
+        </body>
+
+    </html>
+</html>
