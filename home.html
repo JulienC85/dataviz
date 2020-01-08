@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Datavisualisation - Etude de compétences sportives aux JO</title>
+    <style>
+        body{
+            width: 80%;
+            margin: auto;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            text-align: justify;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Liens vers les narrations :</h1>
+
+    <p>La narration web de notre narration se trouve à l'adresse suivante <a target="_blank" rel="noopener noreferrer" href="https://julienc85.github.io/dataviz/index.html">https://julienc85.github.io/dataviz/index.html</a>.</p>
+
+    <p>La version sous Tableau est disponible ici : <a
+            href="https://public.tableau.com/views/NarrationDataviz-CaractristiquesSportives/Narration?:display_count=y&:toolbar=n&:origin=viz_share_link"
+            target="_blank" rel="noopener noreferrer">https://public.tableau.com/views/NarrationDataviz-CaractristiquesSportives/Narration?:display_count=y&:toolbar=n&:origin=viz_share_link</a>.</p>
+
+    <h1>Auteurs</h1>
+
+    <p>Les visualisations ont été créées par Lilian Barreteau et Julien Cougnaud.</p>
+        
+
+    <h1>Rapport d'étonnement</h1>
+
+    <p>
+        Dans cette partie seront discutés les éléments intéressants rencontrés lors de la création de notre visualisation.
+    </p>
+
+    <h2>Préparation des données</h2>
+
+    <p>
+        La préparation des données a été une phase assez intense dans notre travail. En effet, les deux sources de données que l'on avait à notre disposition (historique des participations aux JO depuis 1896 et fichier de caractéristiques de sports à partir de différents critères tels que l'agilité, la vitesse...) comportaient une donnée que l'on souhaitait utiliser pour la jointure des données à savoir le nom du sport. Cependant, celui-ci n'était pas normalisé et donc équivalent dans chacune des données. Il s'agissait par exemple de sports relativement détaillés dans l'historique tandis que le second jeu de données ne comportait parfois que des catégories dans lesquelles il a fallu insérer les sports issue du premier jeu. L'étude des épreuves des JO qui ne correspondaient pas directement aux catégories du second jeu a été nécessaire mais parfois fastidieuse, lorsque l'épreuve a disparu des JO actuels, ou encore lorsque des épreuves pouvaient rejoindre plusieurs catégories. C'était le cas par exemple du biathlon ou encore du décathlon qui sont des sports comportant plusieurs épreuves sportives relativement différentes. De fait, ce type de données n'a pas été pris en compte dans le jeu de données final.
+
+    </p>
+    <p>
+        Pour réaliser cette préparation des données, l'outil Tableau Prep a été utilisé afin de faciliter la jointure et la correction des données (par exemple des codes pays qui, pour une partie d'entre eux, ne correspondaient pas aux pays proposés par Tableau Desktop).
+    </p>
+    <p>
+        Ensuite, une deuxième phase de préparation des données a été réalisée lors de la mise en place de la narration Web. En effet, la structure et la taille du jeu de données qui avait été utilisé dans Tableau étaient trop conséquentes pour permettre des calculs rapides dans notre visualisation web. De plus, en raison de l'utilisation d'un filtre (selon les années) sur nos deux premières visualisation, nous ne pouvions pas générer au préalable des données fixes puis simplement les afficher avec notre librairie Javascript. De fait, nous avons agréger les données sur une période de 4 ans afin, d'une part, de simplifier les données, et d'autre part, de permettre quand même de mettre à jour la visualisation en fonction de l'intervalle d'années choisi par l'utilisateur. Pour réaliser des moyennes par exemple, il a fallu récupérer à la fois la somme globale des scores sur une période de 4 ans, et le nombre d'enregistrements correspondants, pour ensuite, faire le calcul dynamiquement en fonction de la période choisie.
+    </p>
+    
+    <h2>Création de la narration sous Tableau</h2>
+    <p>
+        L'utilisation de Tableau nous a permis, tout d'abord, d'analyser les données pour répondre aux différentes questions posées au départ mais également d'aller un peu plus loin en répondant à des questions que l'on n'avait pas forcément au départ, et ce, assez facilement et rapidement.
+    </p>
+    <p>
+        Néanmoins, nous aurions souhaité réaliser un radar chart afin de comparer les caractéristiques des sports pratiqués par les hommes et les femmes aux jeux olympiques. Cependant, ce type de visualisation n'est pas disponible par défaut et aurait nécessité la réalisation d'un dashboard, pour le mettre en place et assembler le fond, les labels et le graphe ensemble. De fait, nous avons privilégié une comparaison avec des bar charts, et un filtre par intervalle de temps, pour répondre à nos interrogations de départ.
+    </p>
+    <p>
+        Mais à part ce problème-ci, l'utilisation de Tableau a été relativement facile pour réaliser les autres visualisations plus classiques, du moins en utilisant des champs calculés pour récupérer certains résultats (sport le plus pratiqué aux JO par pays par exemple, ou encore pour réaliser la comparaison du nombre de participations par sport entre les femmes et les hommes, en prenant exemple sur la création d'une pyramide des âges). L'usage était également facile pour réaliser les dashboards et la narration finale. 
+    </p>
+
+    <h2>Création de la narration Web</h2>
+
+    <p>
+        Cette étape devait nous permettre de passer de notre narration sous Tableau, à une narration Web. Nous étions au départ partis sur l'utilisation de la librairie D3-JS. Cependant, bien que celle-ci permet de réaliser un nombre impressionnant de visualisations différentes, elle nous a paru relativement complexe à prendre en main par rapport aux autres librairies qui existent pour réaliser des visualisations plus classiques.
+    </p>
+
+    <p>
+        Pour cette raison, nous avons choisi d'utiliser la librairie Plotly, que nous avions déjà utilisé pour réaliser les différents graphes, des bar charts à la carte, en passant par le line chart.
+    </p>
+
+    <p>
+        Au niveau de l'interactivité, nous avons créé un slider qui permet de filtrer les données sur un axe temporel sur deux de nos visualisations en même temps, relatives aux différences entre les hommes et les femmes. De fait, cela permet d'avoir une vision en temps réel des deux graphes, contrairement à ce qui avait été réalisé sous Tableau, et donc de pouvoir observer les liens qu'il peut exister entre les deux visualisations. Par exemple, dans les premières éditions des jeux olympiques, on voit que les femmes participent peu, ce qui peut expliquer les écarts des caractéristiques sur cette période là, tandis que les écarts sont plus faibles dans les dernières éditions, à la fois au niveau des différences de caractéristiques que du nombre de participations.
+    </p>
+
+    <p>
+        Enfin, nous avons choisi de réaliser une narration verticale, aspect souligné par l'utilisation d'images de transition entre les différentes parties de la narration. Cela permet d'avoir une navigation plus agréable dans la page et de bien comprendre que l'on passe d'une question à l'autre par exemple.
+    </p>
+
+</body>
+
+</html>
