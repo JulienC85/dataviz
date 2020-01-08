@@ -6,18 +6,24 @@
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
         <title>Etude de compétences sportives aux JO</title>
         <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/14.0.3/nouislider.min.css" integrity="sha256-IQnSeew8zCA+RvM5fNRro/UY0Aib18qU2WBwGOHZOP0=" crossorigin="anonymous" />
         <!-- Load plotly.js into the DOM -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/14.0.3/nouislider.min.js" integrity="sha256-1ubcV7PzqcMhAz7jsoU3QlAfCnUaY7SUffeHa4Nq3ws=" crossorigin="anonymous"></script>
 	    <script src='https://cdn.plot.ly/plotly-latest.min.js'></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.1.0/papaparse.js" integrity="sha256-iAuxnf8Cwr0yrQkpf6oQG4PaL/oVmoer6V/RfX2KQws=" crossorigin="anonymous"></script>
     </head>
     <body>
             <h1>Etude de compétences sportives aux JO</h1>
             <p>Les Jeux Olympiques d'Été se déroulant cette année à Tokyo au Japon, nous avons choisi d'étudier  les caractéristiques des sports pratiqués aux Jeux Olympiques modernes depuis leur création en 1896.</p>
+            <p>A noter qu'une version sous Tableau a été réalisée et publiée <a href="https://public.tableau.com/views/NarrationDataviz-CaractristiquesSportives/Narration?:display_count=y&:toolbar=n&:origin=viz_share_link" target="_blank" rel="noopener noreferrer">ici</a>.</p>
+            
             <h1>Présentation des jeux de données</h1>
+            
             <h2>Premier jeu de données - Historique des JO</h2>
             <img src="img/olympic-rings.jpg" alt="Anneaux olympiques">
             <p>Le premier jeu de données contient l'historique des participations aux Jeux Olympiques modernes depuis 1896 jusqu'à 2016. Ces données sont issues du site www.sports-reference.com  et ont été mises en forme par rgriffin (www.kaggle.com).</p>
             <p>Au total, 271 116 participations sont inscrites et permettent d'obtenir des informations sur l'athlète concerné (nom, prénom, pays d'origine,  taille, poids, sexe...) et ses résultats (médaille d'or, d'argent, de bronze ou aucune médaille). Ce jeu de données est relativement riche et va nous permettre d'analyser les pratiques sportives d'un  panel important d'athlètes sur un intervalle de temps conséquent (plus d'un siècle) à travers l'événement sportif le plus important au monde.</p>
+            
             <h2>Second jeu de données - Compétences sportives</h2>
             <p>Le second jeu de données contient, pour 60 disciplines sportives, une évaluation selon différentes compétences sportives.</p>
             <p>Ces données sont issues de la chaîne américaine sportive ESPN qui a fait appel à un panel d'experts  (scientifiques du sport au comité olympique des Etats-Unis, académiciens qui étudient la science des muscles et du mouvement, sportif et journalistes sportifs) pour évaluer les différents sports.</p>
@@ -25,24 +31,31 @@
             <p>Ainsi, pour chacune des 60 activités, des notes entre 1 et 10 sont données pour évaluer des compétences telles que l'endurance, la force, la vitesse, l'agilité, etc.</p>
             <p>Ce jeu de données a été associé à l'historique des participations aux JO, à travers le champ relatif au sport, pour nous permettre d'analyser les compétences sportives, non plus à l'échelle d'un sport uniquement, mais à l'échelle d'un ensemble d'athlètes.</p>
             <img src="img/sports.png" alt="Sports">
+            
             <h1>Caractéristiques sportives H/F</h1>
+            
             <p>Tout d'abord, nous nous sommes demandés si les hommes et les femmes pratiquaient des sports aux caractéristiques différentes.</p>
-            <div id='graphe_hf_caract'></div>
-            <p>On constate ici de légères différences pour la plupart des caractéristiques étudiées. On observe par exemple que les  sports pratiqués par les femmes aux JO demandent généralement plus de flexibilité et de vitesse que les hommes. A l'inverse, les sports pratiqués par les hommes semblent exiger plus d'endurance, d'aptitude analytique, de force... De plus, en faisant varier la période sur laquelle les données sont étudiées, on peut voir que ces différences étaient beaucoup plus importantes durant les premières éditions des JO modernes que durant les dernières éditions.</p>
 
-            <p>De plus, on peut voir dans le graphe ci-dessous que la majorité des épreuves des Jeux Olympiques sont loin d'être paritaires. C'est d'autant plus marquant lors des premières éditions où les différences sont flagrantes car la plupart des épreuves semblent être réservées aux hommes. A l'inverse, depuis une quinzaine d'années, les écarts se réduisent même si certains sports semblent loin du compte comme la boxe ou encore le bobsleigh.</p>
+            <div id='graphe_hf_caract'></div>
+            <div id="slider"></div>
             <div id='graphe_hf_sport'></div>
+            <p>On constate ici de légères différences pour la plupart des caractéristiques étudiées. On observe par exemple que les  sports pratiqués par les femmes aux JO demandent généralement plus de flexibilité et de vitesse que les hommes. A l'inverse, les sports pratiqués par les hommes semblent exiger plus d'endurance, d'aptitude analytique, de force... De plus, en faisant varier la période sur laquelle les données sont étudiées, on peut voir que ces différences étaient beaucoup plus importantes durant les premières éditions des JO modernes que durant les dernières éditions.</p>
+            <p>De plus, on peut voir dans le graphe comparant le nombre de participants hommes et femmes aux différentes épreuves que la majorité des épreuves des Jeux Olympiques sont loin d'être paritaires. C'est d'autant plus marquant lors des premières éditions où les différences sont flagrantes car la plupart des épreuves semblent être réservées aux hommes. A l'inverse, depuis une quinzaine d'années, les écarts se réduisent même si certains sports semblent loin du compte comme la boxe ou encore le bobsleigh.</p>
+
 
             <h1>Caractéristiques sportives selon l'âge</h1>
+            
             <p>Après s'être intéressés aux différences entre les hommes et les femmes, nous nous sommes demandés si les compétences des sports pratiqués variaient en fonction de l'âge de l'athlète.</p>
             <div id='graphe_age_caract'></div>
             <p>A partir du graphe ci-dessus, on peut voir qu'il existe des tendances générales au niveau des sports pratiqués par les athlètes en fonction de l'âge. Certaines compétences décroient plus fortement à partir de 28 ans impliquant que certains sports sont délaissés à partir d'un certain âge. C'est le cas des activités qui nécessitent de la vitesse, de l'agilité, de la force, de la flexibilité, durabilité et endurance. Donc ce sont surtout des compétences qui sont relatives aux conditions physiques des athlètes et donc qui déclinent en même temps qu'elles. D'autres restent plutôt constantes à travers les âges par exemple les activités qui ont besoin d'une  capacité de surmonter ses peurs. Ce sont donc des compétences qui vont peu évoluer, d'autant plus que l'expérience peut être bénéfique dans ce cas-là. Enfin, on observe que les activités qui nécessitent une coordination oeil-main rapide (capacité à réagir rapidement à la perception sensorielle) ou encore une aptitude analytique sont plus rares que les autres types d'activités évoqués précédemment lorsque les athlètes sont jeunes, mais plus fréquentes lorsqu'ils sont plus âgés. Ce sont des compétences intellectuelles qui ne sont pas ou peu impactées par les conditions physiques, et qui peuvent nécessiter une expérience plus importante que les autres compétences.</p>
+            
             <h1>Sport le plus représenté par pays</h1>
             <p>Enfin, nous nous sommes intéressés à un dernier aspect relativement différent des deux autres évoqués auparavant. Il s'agit en effet d'étudier ici quel est la catégorie de sport la plus représentée par nation.</p>
             <div id="map"></div>
             <p>On peut constater avec la carte ci-dessus que l'athlétisme semble être la catégorie de sports la plus plébiscitée, et de loin. Cela peut s'expliquer par le fait que cette catégorie est présente de manière permanente depuis les premiers jeux olympiques modernes et qu'elle engloble un nombre important d'épreuves. En plus de l'athlétisme, on peut constater que la gymnastique est plutôt bien représentée, en Europe notamment. Tout comme l'athlétisme, cela peut s'expliquer par le fait que cette discipline est présente depuis très longtemps aux JO. Ensuite, on peut constater un attrait important pour le ski (alpin ou cross) en particulier dans les pays situées près des zones montagneuses (Alpes, Himalaya, ou encore l'Islande par exemple). On peut également observer une tradition de la lutte importante en Moyen-Orient. Enfin, on observe pour certains pays une dominante de sports collectifs (handball, football...). Cependant, le nombre d'athlètes composant une équipe de sport collectif étant relativement important par rapport aux équipes des sports individuels présents aux Jeux Olympiques, cet indicateur peut être plus délicat à prendre en considération ici.</p>
 
             <script src="charts.js"></script>
+
         </body>
 
     </html>
