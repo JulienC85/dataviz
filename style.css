@@ -1,6 +1,14 @@
+*{
+  margin: 0;
+  padding: 0,
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
 body{
     margin: auto;
-    width: 90%;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: justify;
 }
@@ -17,4 +25,69 @@ img{
 #slider{
     margin-top: 1em;
     margin-bottom: 1em;
+}
+
+.noUi-connect {
+	background: #4e79a7 !important;;
+}
+
+.cd-section h1{
+  text-align: center;
+  padding-top: 40vh;
+  font-size: 3em;
+  color: white;
+}
+
+.cd-section p{
+  width: 80%;
+  font-size: 1.5em;
+  text-align: justify;
+  padding-top: 2em;
+  margin: auto;
+}
+
+.cd-section .citation{
+  font-size: 0.5em;
+  text-align: center;
+}
+
+.cd-section {
+  padding: 4em;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    min-height: 100vh;
+    box-shadow: 1px 1px 12px #555; 
+  }
+  
+  .cd-section--bg-fixed {
+    min-height: 100vh;
+    background-attachment: fixed;
+
+  }
+  
+  /* backgrounds */
+  .cd-section:nth-child(1) {
+    background-image: url("img/running.jpg");
+  }
+  
+  
+  .cd-section:nth-child(3) {
+    background-image: url("img/athletics.jpg");
+  }
+   
+  .cd-section:nth-child(5) {
+    background-image: url("img/football.jpg");
+  }
+   
+  .cd-section:nth-child(7) {
+    background-image: url("img/800px-Mondial_Ping_-_Mixed_Doubles_-_Final_-_32.jpg");
+  }
+
+  .cd-section:nth-child(9) {
+    background-image: url("img/baseball.jpg");
+  }
+
+.cd-section:nth-child(11){
+  background-image: url("img/flags.jpg");
 }
