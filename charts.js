@@ -315,7 +315,7 @@ slider.noUiSlider.on('change', updateCharts);
 
 init_chart('https://julienc85.github.io/dataviz/data/data_comparaison_caract_h_f.csv', load_chart_caract_hf);
 init_chart('https://julienc85.github.io/dataviz/data/data_comparaison_sports_h_f.csv', load_chart_sport_hf);
-//init_chart('https://julienc85.github.io/dataviz/data/data_comparaison_caract_age.csv', load_chart_caract_age);
+init_chart('https://julienc85.github.io/dataviz/data/data_comparaison_caract_age.csv', load_chart_caract_age);
 
-//load_map();
+load_map();
 
