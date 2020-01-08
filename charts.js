@@ -105,7 +105,17 @@ function load_chart_caract_hf(data) {
 
   var layout = {
     title: 'Comparaison des caractéristiques des sports pratiqués entre les hommes et les femmes aux JO',
-    barmode: 'group'
+    barmode: 'group',
+    yaxis: {
+      title: {
+        text: 'Note sur 10'
+      }
+    },
+    xaxis: {
+      title: {
+        text: 'Compétence évaluée'
+      }
+    }
   };
 
   Plotly.newPlot('graphe_hf_caract', data_to_print, layout);
@@ -197,7 +207,7 @@ function load_chart_sport_hf(data) {
   let layout = {
     xaxis: {
       type: 'linear',
-      title: { text: 'Number of people' },
+      title: { text: 'Nombre de personnes' },
     },
     yaxis: {
       title: { text: 'Sports' },
@@ -263,6 +273,16 @@ function load_chart_caract_age(data) {
 
   var layout = {
     title: 'Comparaison des caractéristiques des sports pratiqués selon l\'âge des athlètes aux JO',
+    yaxis: {
+      title: {
+        text: 'Note sur 10'
+      }
+    },
+    xaxis: {
+      title: {
+        text: 'Âge de l\'athlète'
+      }
+    }
   };
 
   Plotly.newPlot('graphe_age_caract', data_to_print, layout);
